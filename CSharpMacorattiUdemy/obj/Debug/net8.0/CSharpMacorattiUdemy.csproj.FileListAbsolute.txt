@@ -1,0 +1,14 @@
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\CSharpMacorattiUdemy\bin\Debug\net8.0\CSharpMacorattiUdemy.exe
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\CSharpMacorattiUdemy\bin\Debug\net8.0\CSharpMacorattiUdemy.deps.json
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\CSharpMacorattiUdemy\bin\Debug\net8.0\CSharpMacorattiUdemy.runtimeconfig.json
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\CSharpMacorattiUdemy\bin\Debug\net8.0\CSharpMacorattiUdemy.dll
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\CSharpMacorattiUdemy\bin\Debug\net8.0\CSharpMacorattiUdemy.pdb
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\CSharpMacorattiUdemy\obj\Debug\net8.0\CSharpMacorattiUdemy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\CSharpMacorattiUdemy\obj\Debug\net8.0\CSharpMacorattiUdemy.AssemblyInfoInputs.cache
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\CSharpMacorattiUdemy\obj\Debug\net8.0\CSharpMacorattiUdemy.AssemblyInfo.cs
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\CSharpMacorattiUdemy\obj\Debug\net8.0\CSharpMacorattiUdemy.csproj.CoreCompileInputs.cache
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\CSharpMacorattiUdemy\obj\Debug\net8.0\CSharpMacorattiUdemy.dll
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\CSharpMacorattiUdemy\obj\Debug\net8.0\refint\CSharpMacorattiUdemy.dll
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\CSharpMacorattiUdemy\obj\Debug\net8.0\CSharpMacorattiUdemy.pdb
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\CSharpMacorattiUdemy\obj\Debug\net8.0\CSharpMacorattiUdemy.genruntimeconfig.cache
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\CSharpMacorattiUdemy\obj\Debug\net8.0\ref\CSharpMacorattiUdemy.dll
