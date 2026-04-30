@@ -1,5 +1,6 @@
 /*
-Console.WriteLine("## Classes e Métodos ##\n");
+/*
+Console.WriteLine("## Classes e Métodos ##\n");/////////////////////////////////////////////////////////
 
 Pessoa pessoa1 = new();
 pessoa1.Nome = "Henrique";
@@ -22,5 +23,53 @@ class Pessoa
     public int Idade;
     public string? Nacionalidade;
 }
+#1#
+
+
+Console.WriteLine("## Classes e Métodos ##\n");//////////////////////////////////////////////////////////
+
+MinhaClasse minhaClasse = new MinhaClasse();
+
+minhaClasse.Saudacao();
+
+Console.ReadKey();
+
+
+class MinhaClasse
+{
+    public void Saudacao() // a informação 'public' diz que o método é visível fora da classe também.
+    {
+        Console.WriteLine("Hello, Class!");
+        ExibirDataAtual();
+    }
+
+    void ExibirDataAtual() // sem o 'public' o método é visível somente dentro da classe.
+    {
+        Console.WriteLine(DateTime.Now.ToShortDateString());
+    }
+}
 */
 
+/*
+Console.WriteLine("## Classes e Métodos ##\n"); /////////////////////////////////////////////////////////////////
+
+MinhaClasse minhaClasse = new MinhaClasse();
+MinhaClasse meuObjeto = new MinhaClasse();
+//valores dos argumentos
+minhaClasse.Saudacao("Engels", DateTime.Now.ToLongDateString());
+meuObjeto.Saudacao("Ho Chi Min", DateTime.Now.ToLongTimeString());
+
+
+Console.ReadKey();
+
+
+public class MinhaClasse
+{
+    //parâmetros do método
+    public void Saudacao(string nome, string data) 
+    {
+        Console.WriteLine(nome);
+        Console.WriteLine(data); 
+    }
+}
+*/

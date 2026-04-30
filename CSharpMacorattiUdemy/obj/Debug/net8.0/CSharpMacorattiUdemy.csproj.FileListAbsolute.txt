@@ -12,3 +12,4 @@ C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\CSharpMacorattiUdem
 C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\CSharpMacorattiUdemy\obj\Debug\net8.0\CSharpMacorattiUdemy.pdb
 C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\CSharpMacorattiUdemy\obj\Debug\net8.0\CSharpMacorattiUdemy.genruntimeconfig.cache
 C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\CSharpMacorattiUdemy\obj\Debug\net8.0\ref\CSharpMacorattiUdemy.dll
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\CSharpMacorattiUdemy\obj\Debug\net8.0\CSharpMacorattiUdemy.sourcelink.json
