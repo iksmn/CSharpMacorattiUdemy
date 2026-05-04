@@ -1,21 +1,24 @@
-﻿Console.WriteLine("## Classes e Métodos ##\n");
+﻿Console.WriteLine("## THIS ##");
 
-MinhaClasse minhaClasse = new MinhaClasse();
-MinhaClasse meuObjeto = new MinhaClasse();
-//valores dos argumentos
-minhaClasse.Saudacao("Engels", DateTime.Now.ToLongDateString());
-meuObjeto.Saudacao("Ho Chi Min", DateTime.Now.ToLongTimeString());
 
 
 Console.ReadKey();
 
-
-public class MinhaClasse
+public class Teste
 {
-    //parâmetros do método
-    public void Saudacao(string nome, string data) 
+    public int Num1;
+    public int Num2;
+
+    public void PassarParametro(Teste t)
     {
-        Console.WriteLine(nome);
-        Console.WriteLine(data); 
+        Console.WriteLine($"\nthis = {this}");
+        Console.WriteLine("Num1: " + t.Num1);
+        Console.WriteLine("Num2: " + t.Num2);
+    }
+
+    public void Exibir()
+    {
+        //passando "this" como um parâmetro (a classe Teste)
+        PassarParametro(this);
     }
 }
