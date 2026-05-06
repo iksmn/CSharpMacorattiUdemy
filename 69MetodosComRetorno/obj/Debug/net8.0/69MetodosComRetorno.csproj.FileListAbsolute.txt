@@ -1,0 +1,15 @@
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\69MetodosComRetorno\bin\Debug\net8.0\69MetodosComRetorno.exe
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\69MetodosComRetorno\bin\Debug\net8.0\69MetodosComRetorno.deps.json
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\69MetodosComRetorno\bin\Debug\net8.0\69MetodosComRetorno.runtimeconfig.json
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\69MetodosComRetorno\bin\Debug\net8.0\69MetodosComRetorno.dll
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\69MetodosComRetorno\bin\Debug\net8.0\69MetodosComRetorno.pdb
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\69MetodosComRetorno\obj\Debug\net8.0\69MetodosComRetorno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\69MetodosComRetorno\obj\Debug\net8.0\69MetodosComRetorno.AssemblyInfoInputs.cache
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\69MetodosComRetorno\obj\Debug\net8.0\69MetodosComRetorno.AssemblyInfo.cs
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\69MetodosComRetorno\obj\Debug\net8.0\69MetodosComRetorno.csproj.CoreCompileInputs.cache
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\69MetodosComRetorno\obj\Debug\net8.0\69MetodosComRetorno.sourcelink.json
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\69MetodosComRetorno\obj\Debug\net8.0\69MetodosComRetorno.dll
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\69MetodosComRetorno\obj\Debug\net8.0\refint\69MetodosComRetorno.dll
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\69MetodosComRetorno\obj\Debug\net8.0\69MetodosComRetorno.pdb
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\69MetodosComRetorno\obj\Debug\net8.0\69MetodosComRetorno.genruntimeconfig.cache
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\69MetodosComRetorno\obj\Debug\net8.0\ref\69MetodosComRetorno.dll

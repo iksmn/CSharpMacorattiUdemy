@@ -2,6 +2,10 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpMacorattiUdemy", "CSharpMacorattiUdemy\CSharpMacorattiUdemy.csproj", "{B75955D2-BA5F-4CF5-AD48-75B7BA1EA66E}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4ClassesMetodos", "4ClassesMetodos", "{A441567F-3F85-446C-9548-DB37B103A4CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "69MetodosComRetorno", "69MetodosComRetorno\69MetodosComRetorno.csproj", "{3D7143F8-596E-4D48-A03C-8A5117E4BE22}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +16,12 @@ Global
 		{B75955D2-BA5F-4CF5-AD48-75B7BA1EA66E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B75955D2-BA5F-4CF5-AD48-75B7BA1EA66E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B75955D2-BA5F-4CF5-AD48-75B7BA1EA66E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D7143F8-596E-4D48-A03C-8A5117E4BE22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D7143F8-596E-4D48-A03C-8A5117E4BE22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D7143F8-596E-4D48-A03C-8A5117E4BE22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D7143F8-596E-4D48-A03C-8A5117E4BE22}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{3D7143F8-596E-4D48-A03C-8A5117E4BE22} = {A441567F-3F85-446C-9548-DB37B103A4CF}
 	EndGlobalSection
 EndGlobal

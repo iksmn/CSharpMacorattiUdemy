@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("CSharpMacorattiUdemy")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("69MetodosComRetorno")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1ee87453f507ce456785c00656b27a5f925eace5")]
-[assembly: System.Reflection.AssemblyProductAttribute("CSharpMacorattiUdemy")]
-[assembly: System.Reflection.AssemblyTitleAttribute("CSharpMacorattiUdemy")]
+[assembly: System.Reflection.AssemblyProductAttribute("69MetodosComRetorno")]
+[assembly: System.Reflection.AssemblyTitleAttribute("69MetodosComRetorno")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.
