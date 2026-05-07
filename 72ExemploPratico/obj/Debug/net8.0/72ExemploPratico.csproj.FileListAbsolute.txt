@@ -1,0 +1,15 @@
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\72ExemploPratico\bin\Debug\net8.0\72ExemploPratico.exe
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\72ExemploPratico\bin\Debug\net8.0\72ExemploPratico.deps.json
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\72ExemploPratico\bin\Debug\net8.0\72ExemploPratico.runtimeconfig.json
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\72ExemploPratico\bin\Debug\net8.0\72ExemploPratico.dll
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\72ExemploPratico\bin\Debug\net8.0\72ExemploPratico.pdb
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\72ExemploPratico\obj\Debug\net8.0\72ExemploPratico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\72ExemploPratico\obj\Debug\net8.0\72ExemploPratico.AssemblyInfoInputs.cache
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\72ExemploPratico\obj\Debug\net8.0\72ExemploPratico.AssemblyInfo.cs
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\72ExemploPratico\obj\Debug\net8.0\72ExemploPratico.csproj.CoreCompileInputs.cache
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\72ExemploPratico\obj\Debug\net8.0\72ExemploPratico.sourcelink.json
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\72ExemploPratico\obj\Debug\net8.0\72ExemploPratico.dll
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\72ExemploPratico\obj\Debug\net8.0\refint\72ExemploPratico.dll
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\72ExemploPratico\obj\Debug\net8.0\72ExemploPratico.pdb
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\72ExemploPratico\obj\Debug\net8.0\72ExemploPratico.genruntimeconfig.cache
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\72ExemploPratico\obj\Debug\net8.0\ref\72ExemploPratico.dll

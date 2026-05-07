@@ -1,0 +1,15 @@
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\70ExercicioPraticoII\bin\Debug\net8.0\70ExercicioPraticoII.exe
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\70ExercicioPraticoII\bin\Debug\net8.0\70ExercicioPraticoII.deps.json
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\70ExercicioPraticoII\bin\Debug\net8.0\70ExercicioPraticoII.runtimeconfig.json
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\70ExercicioPraticoII\bin\Debug\net8.0\70ExercicioPraticoII.dll
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\70ExercicioPraticoII\bin\Debug\net8.0\70ExercicioPraticoII.pdb
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\70ExercicioPraticoII\obj\Debug\net8.0\70ExercicioPraticoII.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\70ExercicioPraticoII\obj\Debug\net8.0\70ExercicioPraticoII.AssemblyInfoInputs.cache
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\70ExercicioPraticoII\obj\Debug\net8.0\70ExercicioPraticoII.AssemblyInfo.cs
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\70ExercicioPraticoII\obj\Debug\net8.0\70ExercicioPraticoII.csproj.CoreCompileInputs.cache
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\70ExercicioPraticoII\obj\Debug\net8.0\70ExercicioPraticoII.sourcelink.json
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\70ExercicioPraticoII\obj\Debug\net8.0\70ExercicioPraticoII.dll
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\70ExercicioPraticoII\obj\Debug\net8.0\refint\70ExercicioPraticoII.dll
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\70ExercicioPraticoII\obj\Debug\net8.0\70ExercicioPraticoII.pdb
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\70ExercicioPraticoII\obj\Debug\net8.0\70ExercicioPraticoII.genruntimeconfig.cache
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\70ExercicioPraticoII\obj\Debug\net8.0\ref\70ExercicioPraticoII.dll
