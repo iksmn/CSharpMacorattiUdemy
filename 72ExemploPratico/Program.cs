@@ -6,8 +6,9 @@ cadastro.ExibirDados(cliente);
 
 //alterar renda
 cliente = cadastro.Registrar(cliente);
+cadastro.ExibirDados("Renda alterada", cliente);
 
-Console.WriteLine("Pressione qualquer tecla para sair.");
+Console.WriteLine("\nPressione qualquer tecla para sair.");
 Console.ReadKey();
 
 public class Cliente
@@ -52,6 +53,6 @@ public class Cadastro
     public void ExibirDados(string texto, Cliente cliente)
     {
         Console.Write($"\n{texto}\t");
-        Console.Write($"{cliente.Nome} {cliente.Renda.ToString("c")}");
+        Console.Write($" {cliente.Nome} {cliente.Renda.ToString("c")}");
     }
 }
