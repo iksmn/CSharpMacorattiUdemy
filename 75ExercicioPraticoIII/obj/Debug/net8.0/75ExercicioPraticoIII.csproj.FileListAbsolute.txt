@@ -1,0 +1,15 @@
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\75ExercicioPraticoIII\bin\Debug\net8.0\75ExercicioPraticoIII.exe
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\75ExercicioPraticoIII\bin\Debug\net8.0\75ExercicioPraticoIII.deps.json
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\75ExercicioPraticoIII\bin\Debug\net8.0\75ExercicioPraticoIII.runtimeconfig.json
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\75ExercicioPraticoIII\bin\Debug\net8.0\75ExercicioPraticoIII.dll
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\75ExercicioPraticoIII\bin\Debug\net8.0\75ExercicioPraticoIII.pdb
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\75ExercicioPraticoIII\obj\Debug\net8.0\75ExercicioPraticoIII.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\75ExercicioPraticoIII\obj\Debug\net8.0\75ExercicioPraticoIII.AssemblyInfoInputs.cache
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\75ExercicioPraticoIII\obj\Debug\net8.0\75ExercicioPraticoIII.AssemblyInfo.cs
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\75ExercicioPraticoIII\obj\Debug\net8.0\75ExercicioPraticoIII.csproj.CoreCompileInputs.cache
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\75ExercicioPraticoIII\obj\Debug\net8.0\75ExercicioPraticoIII.sourcelink.json
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\75ExercicioPraticoIII\obj\Debug\net8.0\75ExercicioPraticoIII.dll
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\75ExercicioPraticoIII\obj\Debug\net8.0\refint\75ExercicioPraticoIII.dll
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\75ExercicioPraticoIII\obj\Debug\net8.0\75ExercicioPraticoIII.pdb
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\75ExercicioPraticoIII\obj\Debug\net8.0\75ExercicioPraticoIII.genruntimeconfig.cache
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\75ExercicioPraticoIII\obj\Debug\net8.0\ref\75ExercicioPraticoIII.dll

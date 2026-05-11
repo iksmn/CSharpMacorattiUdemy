@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "75ExercicioPraticoIII/1.0.0": {
+        "runtime": {
+          "75ExercicioPraticoIII.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "75ExercicioPraticoIII/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\74ArgumentosReferenciaRef\bin\Debug\net8.0\rgumentosPorReferenciaRef.exe
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\74ArgumentosReferenciaRef\bin\Debug\net8.0\rgumentosPorReferenciaRef.deps.json
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\74ArgumentosReferenciaRef\bin\Debug\net8.0\rgumentosPorReferenciaRef.runtimeconfig.json
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\74ArgumentosReferenciaRef\bin\Debug\net8.0\rgumentosPorReferenciaRef.dll
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\74ArgumentosReferenciaRef\bin\Debug\net8.0\rgumentosPorReferenciaRef.pdb
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\74ArgumentosReferenciaRef\obj\Debug\net8.0\rgumentosPorReferenciaRef.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\74ArgumentosReferenciaRef\obj\Debug\net8.0\rgumentosPorReferenciaRef.AssemblyInfoInputs.cache
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\74ArgumentosReferenciaRef\obj\Debug\net8.0\rgumentosPorReferenciaRef.AssemblyInfo.cs
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\74ArgumentosReferenciaRef\obj\Debug\net8.0\rgumentosPorReferenciaRef.csproj.CoreCompileInputs.cache
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\74ArgumentosReferenciaRef\obj\Debug\net8.0\rgumentosPorReferenciaRef.sourcelink.json
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\74ArgumentosReferenciaRef\obj\Debug\net8.0\rgumentosPorReferenciaRef.dll
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\74ArgumentosReferenciaRef\obj\Debug\net8.0\refint\rgumentosPorReferenciaRef.dll
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\74ArgumentosReferenciaRef\obj\Debug\net8.0\rgumentosPorReferenciaRef.pdb
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\74ArgumentosReferenciaRef\obj\Debug\net8.0\rgumentosPorReferenciaRef.genruntimeconfig.cache
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\74ArgumentosReferenciaRef\obj\Debug\net8.0\ref\rgumentosPorReferenciaRef.dll

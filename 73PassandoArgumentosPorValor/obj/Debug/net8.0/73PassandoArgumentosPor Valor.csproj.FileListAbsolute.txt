@@ -1,0 +1,15 @@
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\73PassandoArgumentosPor Valor\bin\Debug\net8.0\73PassandoArgumentosPor Valor.exe
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\73PassandoArgumentosPor Valor\bin\Debug\net8.0\73PassandoArgumentosPor Valor.deps.json
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\73PassandoArgumentosPor Valor\bin\Debug\net8.0\73PassandoArgumentosPor Valor.runtimeconfig.json
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\73PassandoArgumentosPor Valor\bin\Debug\net8.0\73PassandoArgumentosPor Valor.dll
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\73PassandoArgumentosPor Valor\bin\Debug\net8.0\73PassandoArgumentosPor Valor.pdb
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\73PassandoArgumentosPor Valor\obj\Debug\net8.0\73PassandoArgumentosPor Valor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\73PassandoArgumentosPor Valor\obj\Debug\net8.0\73PassandoArgumentosPor Valor.AssemblyInfoInputs.cache
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\73PassandoArgumentosPor Valor\obj\Debug\net8.0\73PassandoArgumentosPor Valor.AssemblyInfo.cs
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\73PassandoArgumentosPor Valor\obj\Debug\net8.0\73PassandoArgumentosPor Valor.csproj.CoreCompileInputs.cache
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\73PassandoArgumentosPor Valor\obj\Debug\net8.0\73PassandoArgumentosPor Valor.sourcelink.json
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\73PassandoArgumentosPor Valor\obj\Debug\net8.0\73PassandoArgumentosPor Valor.dll
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\73PassandoArgumentosPor Valor\obj\Debug\net8.0\refint\73PassandoArgumentosPor Valor.dll
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\73PassandoArgumentosPor Valor\obj\Debug\net8.0\73PassandoArgumentosPor Valor.pdb
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\73PassandoArgumentosPor Valor\obj\Debug\net8.0\73PassandoArgumentosPor Valor.genruntimeconfig.cache
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\73PassandoArgumentosPor Valor\obj\Debug\net8.0\ref\73PassandoArgumentosPor Valor.dll
