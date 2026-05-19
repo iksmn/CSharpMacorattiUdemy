@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CSharpMacorattiUdemy")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7617305f8dc76f892a796f0f1f7e087ce03442d8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ef6f5902633802bb41096cbc653dd357009cdc17")]
 [assembly: System.Reflection.AssemblyProductAttribute("CSharpMacorattiUdemy")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CSharpMacorattiUdemy")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,15 @@
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\76ReferenciaOutCirculoSemOut\bin\Debug\net8.0\76ReferenciaOutCirculoSemOut.exe
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\76ReferenciaOutCirculoSemOut\bin\Debug\net8.0\76ReferenciaOutCirculoSemOut.deps.json
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\76ReferenciaOutCirculoSemOut\bin\Debug\net8.0\76ReferenciaOutCirculoSemOut.runtimeconfig.json
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\76ReferenciaOutCirculoSemOut\bin\Debug\net8.0\76ReferenciaOutCirculoSemOut.dll
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\76ReferenciaOutCirculoSemOut\bin\Debug\net8.0\76ReferenciaOutCirculoSemOut.pdb
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\76ReferenciaOutCirculoSemOut\obj\Debug\net8.0\76ReferenciaOutCirculoSemOut.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\76ReferenciaOutCirculoSemOut\obj\Debug\net8.0\76ReferenciaOutCirculoSemOut.AssemblyInfoInputs.cache
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\76ReferenciaOutCirculoSemOut\obj\Debug\net8.0\76ReferenciaOutCirculoSemOut.AssemblyInfo.cs
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\76ReferenciaOutCirculoSemOut\obj\Debug\net8.0\76ReferenciaOutCirculoSemOut.csproj.CoreCompileInputs.cache
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\76ReferenciaOutCirculoSemOut\obj\Debug\net8.0\76ReferenciaOutCirculoSemOut.sourcelink.json
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\76ReferenciaOutCirculoSemOut\obj\Debug\net8.0\76ReferenciaOutCirculoSemOut.dll
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\76ReferenciaOutCirculoSemOut\obj\Debug\net8.0\refint\76ReferenciaOutCirculoSemOut.dll
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\76ReferenciaOutCirculoSemOut\obj\Debug\net8.0\76ReferenciaOutCirculoSemOut.pdb
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\76ReferenciaOutCirculoSemOut\obj\Debug\net8.0\76ReferenciaOutCirculoSemOut.genruntimeconfig.cache
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\76ReferenciaOutCirculoSemOut\obj\Debug\net8.0\ref\76ReferenciaOutCirculoSemOut.dll

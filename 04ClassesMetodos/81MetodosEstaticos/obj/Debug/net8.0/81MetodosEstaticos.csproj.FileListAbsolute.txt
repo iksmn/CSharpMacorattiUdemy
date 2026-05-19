@@ -1,0 +1,15 @@
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\04ClassesMetodos\81MetodosEstaticos\bin\Debug\net8.0\81MetodosEstaticos.exe
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\04ClassesMetodos\81MetodosEstaticos\bin\Debug\net8.0\81MetodosEstaticos.deps.json
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\04ClassesMetodos\81MetodosEstaticos\bin\Debug\net8.0\81MetodosEstaticos.runtimeconfig.json
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\04ClassesMetodos\81MetodosEstaticos\bin\Debug\net8.0\81MetodosEstaticos.dll
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\04ClassesMetodos\81MetodosEstaticos\bin\Debug\net8.0\81MetodosEstaticos.pdb
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\04ClassesMetodos\81MetodosEstaticos\obj\Debug\net8.0\81MetodosEstaticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\04ClassesMetodos\81MetodosEstaticos\obj\Debug\net8.0\81MetodosEstaticos.AssemblyInfoInputs.cache
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\04ClassesMetodos\81MetodosEstaticos\obj\Debug\net8.0\81MetodosEstaticos.AssemblyInfo.cs
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\04ClassesMetodos\81MetodosEstaticos\obj\Debug\net8.0\81MetodosEstaticos.csproj.CoreCompileInputs.cache
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\04ClassesMetodos\81MetodosEstaticos\obj\Debug\net8.0\81MetodosEstaticos.sourcelink.json
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\04ClassesMetodos\81MetodosEstaticos\obj\Debug\net8.0\81MetodosEstaticos.dll
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\04ClassesMetodos\81MetodosEstaticos\obj\Debug\net8.0\refint\81MetodosEstaticos.dll
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\04ClassesMetodos\81MetodosEstaticos\obj\Debug\net8.0\81MetodosEstaticos.pdb
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\04ClassesMetodos\81MetodosEstaticos\obj\Debug\net8.0\81MetodosEstaticos.genruntimeconfig.cache
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\04ClassesMetodos\81MetodosEstaticos\obj\Debug\net8.0\ref\81MetodosEstaticos.dll

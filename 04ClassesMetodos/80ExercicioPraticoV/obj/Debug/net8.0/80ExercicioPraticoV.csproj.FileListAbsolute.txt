@@ -1,0 +1,15 @@
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\04ClassesMetodos\80ExercicioPraticoV\bin\Debug\net8.0\80ExercicioPraticoV.exe
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\04ClassesMetodos\80ExercicioPraticoV\bin\Debug\net8.0\80ExercicioPraticoV.deps.json
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\04ClassesMetodos\80ExercicioPraticoV\bin\Debug\net8.0\80ExercicioPraticoV.runtimeconfig.json
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\04ClassesMetodos\80ExercicioPraticoV\bin\Debug\net8.0\80ExercicioPraticoV.dll
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\04ClassesMetodos\80ExercicioPraticoV\bin\Debug\net8.0\80ExercicioPraticoV.pdb
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\04ClassesMetodos\80ExercicioPraticoV\obj\Debug\net8.0\80ExercicioPraticoV.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\04ClassesMetodos\80ExercicioPraticoV\obj\Debug\net8.0\80ExercicioPraticoV.AssemblyInfoInputs.cache
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\04ClassesMetodos\80ExercicioPraticoV\obj\Debug\net8.0\80ExercicioPraticoV.AssemblyInfo.cs
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\04ClassesMetodos\80ExercicioPraticoV\obj\Debug\net8.0\80ExercicioPraticoV.csproj.CoreCompileInputs.cache
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\04ClassesMetodos\80ExercicioPraticoV\obj\Debug\net8.0\80ExercicioPraticoV.sourcelink.json
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\04ClassesMetodos\80ExercicioPraticoV\obj\Debug\net8.0\80ExercicioPraticoV.dll
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\04ClassesMetodos\80ExercicioPraticoV\obj\Debug\net8.0\refint\80ExercicioPraticoV.dll
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\04ClassesMetodos\80ExercicioPraticoV\obj\Debug\net8.0\80ExercicioPraticoV.pdb
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\04ClassesMetodos\80ExercicioPraticoV\obj\Debug\net8.0\80ExercicioPraticoV.genruntimeconfig.cache
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\04ClassesMetodos\80ExercicioPraticoV\obj\Debug\net8.0\ref\80ExercicioPraticoV.dll

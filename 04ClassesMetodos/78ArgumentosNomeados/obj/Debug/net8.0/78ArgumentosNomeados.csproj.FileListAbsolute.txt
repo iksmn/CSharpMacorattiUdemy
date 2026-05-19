@@ -1,0 +1,15 @@
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\04ClassesMetodos\78ArgumentosNomeados\bin\Debug\net8.0\78ArgumentosNomeados.exe
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\04ClassesMetodos\78ArgumentosNomeados\bin\Debug\net8.0\78ArgumentosNomeados.deps.json
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\04ClassesMetodos\78ArgumentosNomeados\bin\Debug\net8.0\78ArgumentosNomeados.runtimeconfig.json
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\04ClassesMetodos\78ArgumentosNomeados\bin\Debug\net8.0\78ArgumentosNomeados.dll
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\04ClassesMetodos\78ArgumentosNomeados\bin\Debug\net8.0\78ArgumentosNomeados.pdb
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\04ClassesMetodos\78ArgumentosNomeados\obj\Debug\net8.0\78ArgumentosNomeados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\04ClassesMetodos\78ArgumentosNomeados\obj\Debug\net8.0\78ArgumentosNomeados.AssemblyInfoInputs.cache
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\04ClassesMetodos\78ArgumentosNomeados\obj\Debug\net8.0\78ArgumentosNomeados.AssemblyInfo.cs
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\04ClassesMetodos\78ArgumentosNomeados\obj\Debug\net8.0\78ArgumentosNomeados.csproj.CoreCompileInputs.cache
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\04ClassesMetodos\78ArgumentosNomeados\obj\Debug\net8.0\78ArgumentosNomeados.sourcelink.json
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\04ClassesMetodos\78ArgumentosNomeados\obj\Debug\net8.0\78ArgumentosNomeados.dll
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\04ClassesMetodos\78ArgumentosNomeados\obj\Debug\net8.0\refint\78ArgumentosNomeados.dll
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\04ClassesMetodos\78ArgumentosNomeados\obj\Debug\net8.0\78ArgumentosNomeados.pdb
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\04ClassesMetodos\78ArgumentosNomeados\obj\Debug\net8.0\78ArgumentosNomeados.genruntimeconfig.cache
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\04ClassesMetodos\78ArgumentosNomeados\obj\Debug\net8.0\ref\78ArgumentosNomeados.dll

@@ -1,0 +1,15 @@
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\06ProgramacaoOrientadaObjetos\126PilaresdePOO\bin\Debug\net8.0\126PilaresdePOO.exe
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\06ProgramacaoOrientadaObjetos\126PilaresdePOO\bin\Debug\net8.0\126PilaresdePOO.deps.json
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\06ProgramacaoOrientadaObjetos\126PilaresdePOO\bin\Debug\net8.0\126PilaresdePOO.runtimeconfig.json
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\06ProgramacaoOrientadaObjetos\126PilaresdePOO\bin\Debug\net8.0\126PilaresdePOO.dll
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\06ProgramacaoOrientadaObjetos\126PilaresdePOO\bin\Debug\net8.0\126PilaresdePOO.pdb
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\06ProgramacaoOrientadaObjetos\126PilaresdePOO\obj\Debug\net8.0\126PilaresdePOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\06ProgramacaoOrientadaObjetos\126PilaresdePOO\obj\Debug\net8.0\126PilaresdePOO.AssemblyInfoInputs.cache
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\06ProgramacaoOrientadaObjetos\126PilaresdePOO\obj\Debug\net8.0\126PilaresdePOO.AssemblyInfo.cs
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\06ProgramacaoOrientadaObjetos\126PilaresdePOO\obj\Debug\net8.0\126PilaresdePOO.csproj.CoreCompileInputs.cache
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\06ProgramacaoOrientadaObjetos\126PilaresdePOO\obj\Debug\net8.0\126PilaresdePOO.sourcelink.json
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\06ProgramacaoOrientadaObjetos\126PilaresdePOO\obj\Debug\net8.0\126PilaresdePOO.dll
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\06ProgramacaoOrientadaObjetos\126PilaresdePOO\obj\Debug\net8.0\refint\126PilaresdePOO.dll
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\06ProgramacaoOrientadaObjetos\126PilaresdePOO\obj\Debug\net8.0\126PilaresdePOO.pdb
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\06ProgramacaoOrientadaObjetos\126PilaresdePOO\obj\Debug\net8.0\126PilaresdePOO.genruntimeconfig.cache
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\06ProgramacaoOrientadaObjetos\126PilaresdePOO\obj\Debug\net8.0\ref\126PilaresdePOO.dll

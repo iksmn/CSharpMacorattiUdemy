@@ -1,0 +1,15 @@
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\06ProgramacaoOrientadaObjetos\127HerancaConceitoSintaxe\bin\Debug\net8.0\127HerancaConceitoSintaxe.exe
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\06ProgramacaoOrientadaObjetos\127HerancaConceitoSintaxe\bin\Debug\net8.0\127HerancaConceitoSintaxe.deps.json
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\06ProgramacaoOrientadaObjetos\127HerancaConceitoSintaxe\bin\Debug\net8.0\127HerancaConceitoSintaxe.runtimeconfig.json
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\06ProgramacaoOrientadaObjetos\127HerancaConceitoSintaxe\bin\Debug\net8.0\127HerancaConceitoSintaxe.dll
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\06ProgramacaoOrientadaObjetos\127HerancaConceitoSintaxe\bin\Debug\net8.0\127HerancaConceitoSintaxe.pdb
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\06ProgramacaoOrientadaObjetos\127HerancaConceitoSintaxe\obj\Debug\net8.0\127HerancaConceitoSintaxe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\06ProgramacaoOrientadaObjetos\127HerancaConceitoSintaxe\obj\Debug\net8.0\127HerancaConceitoSintaxe.AssemblyInfoInputs.cache
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\06ProgramacaoOrientadaObjetos\127HerancaConceitoSintaxe\obj\Debug\net8.0\127HerancaConceitoSintaxe.AssemblyInfo.cs
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\06ProgramacaoOrientadaObjetos\127HerancaConceitoSintaxe\obj\Debug\net8.0\127HerancaConceitoSintaxe.csproj.CoreCompileInputs.cache
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\06ProgramacaoOrientadaObjetos\127HerancaConceitoSintaxe\obj\Debug\net8.0\127HerancaConceitoSintaxe.sourcelink.json
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\06ProgramacaoOrientadaObjetos\127HerancaConceitoSintaxe\obj\Debug\net8.0\127HerancaConceitoSintaxe.dll
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\06ProgramacaoOrientadaObjetos\127HerancaConceitoSintaxe\obj\Debug\net8.0\refint\127HerancaConceitoSintaxe.dll
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\06ProgramacaoOrientadaObjetos\127HerancaConceitoSintaxe\obj\Debug\net8.0\127HerancaConceitoSintaxe.pdb
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\06ProgramacaoOrientadaObjetos\127HerancaConceitoSintaxe\obj\Debug\net8.0\127HerancaConceitoSintaxe.genruntimeconfig.cache
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\06ProgramacaoOrientadaObjetos\127HerancaConceitoSintaxe\obj\Debug\net8.0\ref\127HerancaConceitoSintaxe.dll
