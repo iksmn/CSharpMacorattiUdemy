@@ -14,6 +14,14 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "80ExercicioPraticoV", "04Cl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "81MetodosEstaticos", "04ClassesMetodos\81MetodosEstaticos\81MetodosEstaticos.csproj", "{5CAC02C7-4268-4A27-A856-19D081148DB4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "83ExerciciosCamposEstaticos", "04ClassesMetodos\83ExerciciosCamposEstaticos\83ExerciciosCamposEstaticos.csproj", "{D4F602D8-A3B6-4910-8FCF-89AE36752DE8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "84ExercicioPraticoVI", "04ClassesMetodos\84ExercicioPraticoVI\84ExercicioPraticoVI.csproj", "{5AC562C7-BE59-4224-A869-AA9683912857}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "128HerancaComportamentos", "06ProgramacaoOrientadaObjetos\128HerancaComportamentos\128HerancaComportamentos.csproj", "{E7F8A0EF-4652-451F-95E6-46A6B8DE5A7D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "129HerancaConstrutores", "06ProgramacaoOrientadaObjetos\129HerancaConstrutores\129HerancaConstrutores.csproj", "{17596310-3ED2-479B-8FB6-EBA3A9EC1F14}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -48,6 +56,22 @@ Global
 		{5CAC02C7-4268-4A27-A856-19D081148DB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5CAC02C7-4268-4A27-A856-19D081148DB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5CAC02C7-4268-4A27-A856-19D081148DB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4F602D8-A3B6-4910-8FCF-89AE36752DE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4F602D8-A3B6-4910-8FCF-89AE36752DE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4F602D8-A3B6-4910-8FCF-89AE36752DE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4F602D8-A3B6-4910-8FCF-89AE36752DE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5AC562C7-BE59-4224-A869-AA9683912857}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AC562C7-BE59-4224-A869-AA9683912857}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AC562C7-BE59-4224-A869-AA9683912857}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AC562C7-BE59-4224-A869-AA9683912857}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7F8A0EF-4652-451F-95E6-46A6B8DE5A7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7F8A0EF-4652-451F-95E6-46A6B8DE5A7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7F8A0EF-4652-451F-95E6-46A6B8DE5A7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7F8A0EF-4652-451F-95E6-46A6B8DE5A7D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17596310-3ED2-479B-8FB6-EBA3A9EC1F14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17596310-3ED2-479B-8FB6-EBA3A9EC1F14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17596310-3ED2-479B-8FB6-EBA3A9EC1F14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17596310-3ED2-479B-8FB6-EBA3A9EC1F14}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 	EndGlobalSection

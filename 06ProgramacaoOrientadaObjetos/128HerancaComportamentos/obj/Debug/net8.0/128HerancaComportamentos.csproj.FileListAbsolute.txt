@@ -1,0 +1,15 @@
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\06ProgramacaoOrientadaObjetos\128HerancaComportamentos\bin\Debug\net8.0\128HerancaComportamentos.exe
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\06ProgramacaoOrientadaObjetos\128HerancaComportamentos\bin\Debug\net8.0\128HerancaComportamentos.deps.json
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\06ProgramacaoOrientadaObjetos\128HerancaComportamentos\bin\Debug\net8.0\128HerancaComportamentos.runtimeconfig.json
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\06ProgramacaoOrientadaObjetos\128HerancaComportamentos\bin\Debug\net8.0\128HerancaComportamentos.dll
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\06ProgramacaoOrientadaObjetos\128HerancaComportamentos\bin\Debug\net8.0\128HerancaComportamentos.pdb
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\06ProgramacaoOrientadaObjetos\128HerancaComportamentos\obj\Debug\net8.0\128HerancaComportamentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\06ProgramacaoOrientadaObjetos\128HerancaComportamentos\obj\Debug\net8.0\128HerancaComportamentos.AssemblyInfoInputs.cache
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\06ProgramacaoOrientadaObjetos\128HerancaComportamentos\obj\Debug\net8.0\128HerancaComportamentos.AssemblyInfo.cs
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\06ProgramacaoOrientadaObjetos\128HerancaComportamentos\obj\Debug\net8.0\128HerancaComportamentos.csproj.CoreCompileInputs.cache
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\06ProgramacaoOrientadaObjetos\128HerancaComportamentos\obj\Debug\net8.0\128HerancaComportamentos.sourcelink.json
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\06ProgramacaoOrientadaObjetos\128HerancaComportamentos\obj\Debug\net8.0\128HerancaComportamentos.dll
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\06ProgramacaoOrientadaObjetos\128HerancaComportamentos\obj\Debug\net8.0\refint\128HerancaComportamentos.dll
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\06ProgramacaoOrientadaObjetos\128HerancaComportamentos\obj\Debug\net8.0\128HerancaComportamentos.pdb
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\06ProgramacaoOrientadaObjetos\128HerancaComportamentos\obj\Debug\net8.0\128HerancaComportamentos.genruntimeconfig.cache
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\06ProgramacaoOrientadaObjetos\128HerancaComportamentos\obj\Debug\net8.0\ref\128HerancaComportamentos.dll

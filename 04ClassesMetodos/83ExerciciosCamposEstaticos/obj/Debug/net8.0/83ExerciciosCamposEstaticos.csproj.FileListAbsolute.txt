@@ -1,0 +1,15 @@
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\04ClassesMetodos\83ExerciciosCamposEstaticos\bin\Debug\net8.0\83ExerciciosCamposEstaticos.exe
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\04ClassesMetodos\83ExerciciosCamposEstaticos\bin\Debug\net8.0\83ExerciciosCamposEstaticos.deps.json
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\04ClassesMetodos\83ExerciciosCamposEstaticos\bin\Debug\net8.0\83ExerciciosCamposEstaticos.runtimeconfig.json
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\04ClassesMetodos\83ExerciciosCamposEstaticos\bin\Debug\net8.0\83ExerciciosCamposEstaticos.dll
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\04ClassesMetodos\83ExerciciosCamposEstaticos\bin\Debug\net8.0\83ExerciciosCamposEstaticos.pdb
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\04ClassesMetodos\83ExerciciosCamposEstaticos\obj\Debug\net8.0\83ExerciciosCamposEstaticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\04ClassesMetodos\83ExerciciosCamposEstaticos\obj\Debug\net8.0\83ExerciciosCamposEstaticos.AssemblyInfoInputs.cache
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\04ClassesMetodos\83ExerciciosCamposEstaticos\obj\Debug\net8.0\83ExerciciosCamposEstaticos.AssemblyInfo.cs
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\04ClassesMetodos\83ExerciciosCamposEstaticos\obj\Debug\net8.0\83ExerciciosCamposEstaticos.csproj.CoreCompileInputs.cache
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\04ClassesMetodos\83ExerciciosCamposEstaticos\obj\Debug\net8.0\83ExerciciosCamposEstaticos.sourcelink.json
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\04ClassesMetodos\83ExerciciosCamposEstaticos\obj\Debug\net8.0\83ExerciciosCamposEstaticos.dll
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\04ClassesMetodos\83ExerciciosCamposEstaticos\obj\Debug\net8.0\refint\83ExerciciosCamposEstaticos.dll
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\04ClassesMetodos\83ExerciciosCamposEstaticos\obj\Debug\net8.0\83ExerciciosCamposEstaticos.pdb
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\04ClassesMetodos\83ExerciciosCamposEstaticos\obj\Debug\net8.0\83ExerciciosCamposEstaticos.genruntimeconfig.cache
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\04ClassesMetodos\83ExerciciosCamposEstaticos\obj\Debug\net8.0\ref\83ExerciciosCamposEstaticos.dll

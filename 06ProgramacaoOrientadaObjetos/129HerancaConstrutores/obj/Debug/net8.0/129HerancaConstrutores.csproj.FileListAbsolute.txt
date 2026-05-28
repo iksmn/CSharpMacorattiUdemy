@@ -1,0 +1,15 @@
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\06ProgramacaoOrientadaObjetos\129HerancaConstrutores\bin\Debug\net8.0\129HerancaConstrutores.exe
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\06ProgramacaoOrientadaObjetos\129HerancaConstrutores\bin\Debug\net8.0\129HerancaConstrutores.deps.json
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\06ProgramacaoOrientadaObjetos\129HerancaConstrutores\bin\Debug\net8.0\129HerancaConstrutores.runtimeconfig.json
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\06ProgramacaoOrientadaObjetos\129HerancaConstrutores\bin\Debug\net8.0\129HerancaConstrutores.dll
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\06ProgramacaoOrientadaObjetos\129HerancaConstrutores\bin\Debug\net8.0\129HerancaConstrutores.pdb
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\06ProgramacaoOrientadaObjetos\129HerancaConstrutores\obj\Debug\net8.0\129HerancaConstrutores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\06ProgramacaoOrientadaObjetos\129HerancaConstrutores\obj\Debug\net8.0\129HerancaConstrutores.AssemblyInfoInputs.cache
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\06ProgramacaoOrientadaObjetos\129HerancaConstrutores\obj\Debug\net8.0\129HerancaConstrutores.AssemblyInfo.cs
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\06ProgramacaoOrientadaObjetos\129HerancaConstrutores\obj\Debug\net8.0\129HerancaConstrutores.csproj.CoreCompileInputs.cache
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\06ProgramacaoOrientadaObjetos\129HerancaConstrutores\obj\Debug\net8.0\129HerancaConstrutores.sourcelink.json
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\06ProgramacaoOrientadaObjetos\129HerancaConstrutores\obj\Debug\net8.0\129HerancaConstrutores.dll
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\06ProgramacaoOrientadaObjetos\129HerancaConstrutores\obj\Debug\net8.0\refint\129HerancaConstrutores.dll
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\06ProgramacaoOrientadaObjetos\129HerancaConstrutores\obj\Debug\net8.0\129HerancaConstrutores.pdb
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\06ProgramacaoOrientadaObjetos\129HerancaConstrutores\obj\Debug\net8.0\129HerancaConstrutores.genruntimeconfig.cache
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\06ProgramacaoOrientadaObjetos\129HerancaConstrutores\obj\Debug\net8.0\ref\129HerancaConstrutores.dll
