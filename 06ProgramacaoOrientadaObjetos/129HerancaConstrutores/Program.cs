@@ -6,8 +6,8 @@ class Program
     {
         Console.WriteLine("## Herança - Construtores ##");
 
-
-        DerivadaAluno aluno = new();
+        DerivadaAluno aluno1 = new();
+        DerivadaAluno aluno2 = new("José");
         
         Console.WriteLine("Pressione qualquer tecla para sair.");
         Console.ReadKey();
@@ -30,14 +30,14 @@ class Program
 
     class DerivadaAluno : BasePessoa 
     {
-        public DerivadaAluno()
+        public DerivadaAluno() : base()
         {
             Console.WriteLine("Construtor da classe DerivadaAluno");
         }
 
-        public DerivadaAluno(string nome)
+        public DerivadaAluno(string nome) : base(nome)
         {
-            Console.WriteLine("Construtor da classe DerivadaALuno com parâmetro.");
+            Console.WriteLine("Construtor da classe DerivadaAluno com parâmetro.");
         }
     }
     

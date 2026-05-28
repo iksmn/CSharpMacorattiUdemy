@@ -1,0 +1,15 @@
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\06ProgramacaoOrientadaObjetos\132HerancaVirtualOverride\bin\Debug\net8.0\132HerancaVirtualOverride.exe
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\06ProgramacaoOrientadaObjetos\132HerancaVirtualOverride\bin\Debug\net8.0\132HerancaVirtualOverride.deps.json
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\06ProgramacaoOrientadaObjetos\132HerancaVirtualOverride\bin\Debug\net8.0\132HerancaVirtualOverride.runtimeconfig.json
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\06ProgramacaoOrientadaObjetos\132HerancaVirtualOverride\bin\Debug\net8.0\132HerancaVirtualOverride.dll
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\06ProgramacaoOrientadaObjetos\132HerancaVirtualOverride\bin\Debug\net8.0\132HerancaVirtualOverride.pdb
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\06ProgramacaoOrientadaObjetos\132HerancaVirtualOverride\obj\Debug\net8.0\132HerancaVirtualOverride.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\06ProgramacaoOrientadaObjetos\132HerancaVirtualOverride\obj\Debug\net8.0\132HerancaVirtualOverride.AssemblyInfoInputs.cache
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\06ProgramacaoOrientadaObjetos\132HerancaVirtualOverride\obj\Debug\net8.0\132HerancaVirtualOverride.AssemblyInfo.cs
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\06ProgramacaoOrientadaObjetos\132HerancaVirtualOverride\obj\Debug\net8.0\132HerancaVirtualOverride.csproj.CoreCompileInputs.cache
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\06ProgramacaoOrientadaObjetos\132HerancaVirtualOverride\obj\Debug\net8.0\132HerancaVirtualOverride.sourcelink.json
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\06ProgramacaoOrientadaObjetos\132HerancaVirtualOverride\obj\Debug\net8.0\132HerancaVirtualOverride.dll
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\06ProgramacaoOrientadaObjetos\132HerancaVirtualOverride\obj\Debug\net8.0\refint\132HerancaVirtualOverride.dll
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\06ProgramacaoOrientadaObjetos\132HerancaVirtualOverride\obj\Debug\net8.0\132HerancaVirtualOverride.pdb
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\06ProgramacaoOrientadaObjetos\132HerancaVirtualOverride\obj\Debug\net8.0\132HerancaVirtualOverride.genruntimeconfig.cache
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\06ProgramacaoOrientadaObjetos\132HerancaVirtualOverride\obj\Debug\net8.0\ref\132HerancaVirtualOverride.dll

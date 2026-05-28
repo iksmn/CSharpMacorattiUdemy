@@ -1,0 +1,15 @@
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\06ProgramacaoOrientadaObjetos\133ModificadorSealed\bin\Debug\net8.0\133ModificadorSealed.exe
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\06ProgramacaoOrientadaObjetos\133ModificadorSealed\bin\Debug\net8.0\133ModificadorSealed.deps.json
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\06ProgramacaoOrientadaObjetos\133ModificadorSealed\bin\Debug\net8.0\133ModificadorSealed.runtimeconfig.json
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\06ProgramacaoOrientadaObjetos\133ModificadorSealed\bin\Debug\net8.0\133ModificadorSealed.dll
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\06ProgramacaoOrientadaObjetos\133ModificadorSealed\bin\Debug\net8.0\133ModificadorSealed.pdb
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\06ProgramacaoOrientadaObjetos\133ModificadorSealed\obj\Debug\net8.0\133ModificadorSealed.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\06ProgramacaoOrientadaObjetos\133ModificadorSealed\obj\Debug\net8.0\133ModificadorSealed.AssemblyInfoInputs.cache
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\06ProgramacaoOrientadaObjetos\133ModificadorSealed\obj\Debug\net8.0\133ModificadorSealed.AssemblyInfo.cs
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\06ProgramacaoOrientadaObjetos\133ModificadorSealed\obj\Debug\net8.0\133ModificadorSealed.csproj.CoreCompileInputs.cache
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\06ProgramacaoOrientadaObjetos\133ModificadorSealed\obj\Debug\net8.0\133ModificadorSealed.sourcelink.json
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\06ProgramacaoOrientadaObjetos\133ModificadorSealed\obj\Debug\net8.0\133ModificadorSealed.dll
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\06ProgramacaoOrientadaObjetos\133ModificadorSealed\obj\Debug\net8.0\refint\133ModificadorSealed.dll
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\06ProgramacaoOrientadaObjetos\133ModificadorSealed\obj\Debug\net8.0\133ModificadorSealed.pdb
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\06ProgramacaoOrientadaObjetos\133ModificadorSealed\obj\Debug\net8.0\133ModificadorSealed.genruntimeconfig.cache
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\06ProgramacaoOrientadaObjetos\133ModificadorSealed\obj\Debug\net8.0\ref\133ModificadorSealed.dll

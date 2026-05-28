@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "130HerancaObject/1.0.0": {
+        "runtime": {
+          "130HerancaObject.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "130HerancaObject/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

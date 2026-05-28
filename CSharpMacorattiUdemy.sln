@@ -22,6 +22,18 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "128HerancaComportamentos", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "129HerancaConstrutores", "06ProgramacaoOrientadaObjetos\129HerancaConstrutores\129HerancaConstrutores.csproj", "{17596310-3ED2-479B-8FB6-EBA3A9EC1F14}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "130HerancaObject", "06ProgramacaoOrientadaObjetos\130HerancaObject\130HerancaObject.csproj", "{B5220DC4-58C4-4757-A11B-8AA48A221062}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "131HerancaNew", "06ProgramacaoOrientadaObjetos\131HerancaNew\131HerancaNew.csproj", "{B2D6DE22-E505-48A1-BED6-EDB41436BD42}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "132HerancaVirtualOverride", "06ProgramacaoOrientadaObjetos\132HerancaVirtualOverride\132HerancaVirtualOverride.csproj", "{E9AE57BF-C579-44D3-B278-B0E175FE024A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "133ModificadorSealed", "06ProgramacaoOrientadaObjetos\133ModificadorSealed\133ModificadorSealed.csproj", "{B981425E-529F-43A3-9590-8616420A60D8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "133ModificadorsSealed2", "06ProgramacaoOrientadaObjetos\133ModificadorsSealed2\133ModificadorsSealed2.csproj", "{E044E4D4-0183-48EF-8DFA-F64E64AE025E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "134ExercicioHeranca", "06ProgramacaoOrientadaObjetos\134ExercicioHeranca\134ExercicioHeranca.csproj", "{7A17315E-AC40-40BE-B924-D5C76F859882}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -72,6 +84,30 @@ Global
 		{17596310-3ED2-479B-8FB6-EBA3A9EC1F14}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{17596310-3ED2-479B-8FB6-EBA3A9EC1F14}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{17596310-3ED2-479B-8FB6-EBA3A9EC1F14}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5220DC4-58C4-4757-A11B-8AA48A221062}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5220DC4-58C4-4757-A11B-8AA48A221062}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5220DC4-58C4-4757-A11B-8AA48A221062}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5220DC4-58C4-4757-A11B-8AA48A221062}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2D6DE22-E505-48A1-BED6-EDB41436BD42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2D6DE22-E505-48A1-BED6-EDB41436BD42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2D6DE22-E505-48A1-BED6-EDB41436BD42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2D6DE22-E505-48A1-BED6-EDB41436BD42}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9AE57BF-C579-44D3-B278-B0E175FE024A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9AE57BF-C579-44D3-B278-B0E175FE024A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9AE57BF-C579-44D3-B278-B0E175FE024A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9AE57BF-C579-44D3-B278-B0E175FE024A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B981425E-529F-43A3-9590-8616420A60D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B981425E-529F-43A3-9590-8616420A60D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B981425E-529F-43A3-9590-8616420A60D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B981425E-529F-43A3-9590-8616420A60D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E044E4D4-0183-48EF-8DFA-F64E64AE025E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E044E4D4-0183-48EF-8DFA-F64E64AE025E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E044E4D4-0183-48EF-8DFA-F64E64AE025E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E044E4D4-0183-48EF-8DFA-F64E64AE025E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A17315E-AC40-40BE-B924-D5C76F859882}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A17315E-AC40-40BE-B924-D5C76F859882}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A17315E-AC40-40BE-B924-D5C76F859882}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A17315E-AC40-40BE-B924-D5C76F859882}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 	EndGlobalSection
