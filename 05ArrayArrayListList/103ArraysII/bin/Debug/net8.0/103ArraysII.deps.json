@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "103ArraysII/1.0.0": {
+        "runtime": {
+          "103ArraysII.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "103ArraysII/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

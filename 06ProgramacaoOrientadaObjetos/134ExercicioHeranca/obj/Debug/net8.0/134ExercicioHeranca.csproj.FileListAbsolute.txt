@@ -1,0 +1,15 @@
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\06ProgramacaoOrientadaObjetos\134ExercicioHeranca\bin\Debug\net8.0\134ExercicioHeranca.exe
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\06ProgramacaoOrientadaObjetos\134ExercicioHeranca\bin\Debug\net8.0\134ExercicioHeranca.deps.json
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\06ProgramacaoOrientadaObjetos\134ExercicioHeranca\bin\Debug\net8.0\134ExercicioHeranca.runtimeconfig.json
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\06ProgramacaoOrientadaObjetos\134ExercicioHeranca\bin\Debug\net8.0\134ExercicioHeranca.dll
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\06ProgramacaoOrientadaObjetos\134ExercicioHeranca\bin\Debug\net8.0\134ExercicioHeranca.pdb
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\06ProgramacaoOrientadaObjetos\134ExercicioHeranca\obj\Debug\net8.0\134ExercicioHeranca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\06ProgramacaoOrientadaObjetos\134ExercicioHeranca\obj\Debug\net8.0\134ExercicioHeranca.AssemblyInfoInputs.cache
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\06ProgramacaoOrientadaObjetos\134ExercicioHeranca\obj\Debug\net8.0\134ExercicioHeranca.AssemblyInfo.cs
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\06ProgramacaoOrientadaObjetos\134ExercicioHeranca\obj\Debug\net8.0\134ExercicioHeranca.csproj.CoreCompileInputs.cache
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\06ProgramacaoOrientadaObjetos\134ExercicioHeranca\obj\Debug\net8.0\134ExercicioHeranca.sourcelink.json
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\06ProgramacaoOrientadaObjetos\134ExercicioHeranca\obj\Debug\net8.0\134ExercicioHeranca.dll
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\06ProgramacaoOrientadaObjetos\134ExercicioHeranca\obj\Debug\net8.0\refint\134ExercicioHeranca.dll
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\06ProgramacaoOrientadaObjetos\134ExercicioHeranca\obj\Debug\net8.0\134ExercicioHeranca.pdb
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\06ProgramacaoOrientadaObjetos\134ExercicioHeranca\obj\Debug\net8.0\134ExercicioHeranca.genruntimeconfig.cache
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\06ProgramacaoOrientadaObjetos\134ExercicioHeranca\obj\Debug\net8.0\ref\134ExercicioHeranca.dll

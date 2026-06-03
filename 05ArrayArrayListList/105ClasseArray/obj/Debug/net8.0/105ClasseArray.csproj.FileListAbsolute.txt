@@ -1,0 +1,15 @@
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\05ArrayArrayListList\105ClasseArray\bin\Debug\net8.0\105ClasseArray.exe
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\05ArrayArrayListList\105ClasseArray\bin\Debug\net8.0\105ClasseArray.deps.json
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\05ArrayArrayListList\105ClasseArray\bin\Debug\net8.0\105ClasseArray.runtimeconfig.json
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\05ArrayArrayListList\105ClasseArray\bin\Debug\net8.0\105ClasseArray.dll
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\05ArrayArrayListList\105ClasseArray\bin\Debug\net8.0\105ClasseArray.pdb
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\05ArrayArrayListList\105ClasseArray\obj\Debug\net8.0\105ClasseArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\05ArrayArrayListList\105ClasseArray\obj\Debug\net8.0\105ClasseArray.AssemblyInfoInputs.cache
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\05ArrayArrayListList\105ClasseArray\obj\Debug\net8.0\105ClasseArray.AssemblyInfo.cs
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\05ArrayArrayListList\105ClasseArray\obj\Debug\net8.0\105ClasseArray.csproj.CoreCompileInputs.cache
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\05ArrayArrayListList\105ClasseArray\obj\Debug\net8.0\105ClasseArray.sourcelink.json
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\05ArrayArrayListList\105ClasseArray\obj\Debug\net8.0\105ClasseArray.dll
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\05ArrayArrayListList\105ClasseArray\obj\Debug\net8.0\refint\105ClasseArray.dll
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\05ArrayArrayListList\105ClasseArray\obj\Debug\net8.0\105ClasseArray.pdb
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\05ArrayArrayListList\105ClasseArray\obj\Debug\net8.0\105ClasseArray.genruntimeconfig.cache
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\05ArrayArrayListList\105ClasseArray\obj\Debug\net8.0\ref\105ClasseArray.dll

@@ -1,0 +1,15 @@
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\05ArrayArrayListList\103ArraysII\bin\Debug\net8.0\103ArraysII.exe
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\05ArrayArrayListList\103ArraysII\bin\Debug\net8.0\103ArraysII.deps.json
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\05ArrayArrayListList\103ArraysII\bin\Debug\net8.0\103ArraysII.runtimeconfig.json
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\05ArrayArrayListList\103ArraysII\bin\Debug\net8.0\103ArraysII.dll
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\05ArrayArrayListList\103ArraysII\bin\Debug\net8.0\103ArraysII.pdb
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\05ArrayArrayListList\103ArraysII\obj\Debug\net8.0\103ArraysII.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\05ArrayArrayListList\103ArraysII\obj\Debug\net8.0\103ArraysII.AssemblyInfoInputs.cache
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\05ArrayArrayListList\103ArraysII\obj\Debug\net8.0\103ArraysII.AssemblyInfo.cs
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\05ArrayArrayListList\103ArraysII\obj\Debug\net8.0\103ArraysII.csproj.CoreCompileInputs.cache
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\05ArrayArrayListList\103ArraysII\obj\Debug\net8.0\103ArraysII.sourcelink.json
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\05ArrayArrayListList\103ArraysII\obj\Debug\net8.0\103ArraysII.dll
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\05ArrayArrayListList\103ArraysII\obj\Debug\net8.0\refint\103ArraysII.dll
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\05ArrayArrayListList\103ArraysII\obj\Debug\net8.0\103ArraysII.pdb
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\05ArrayArrayListList\103ArraysII\obj\Debug\net8.0\103ArraysII.genruntimeconfig.cache
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\05ArrayArrayListList\103ArraysII\obj\Debug\net8.0\ref\103ArraysII.dll

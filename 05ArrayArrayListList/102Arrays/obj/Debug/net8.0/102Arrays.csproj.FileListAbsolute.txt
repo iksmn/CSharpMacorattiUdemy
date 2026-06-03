@@ -1,0 +1,15 @@
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\05ArrayArrayListList\102Arrays\bin\Debug\net8.0\102Arrays.exe
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\05ArrayArrayListList\102Arrays\bin\Debug\net8.0\102Arrays.deps.json
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\05ArrayArrayListList\102Arrays\bin\Debug\net8.0\102Arrays.runtimeconfig.json
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\05ArrayArrayListList\102Arrays\bin\Debug\net8.0\102Arrays.dll
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\05ArrayArrayListList\102Arrays\bin\Debug\net8.0\102Arrays.pdb
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\05ArrayArrayListList\102Arrays\obj\Debug\net8.0\102Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\05ArrayArrayListList\102Arrays\obj\Debug\net8.0\102Arrays.AssemblyInfoInputs.cache
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\05ArrayArrayListList\102Arrays\obj\Debug\net8.0\102Arrays.AssemblyInfo.cs
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\05ArrayArrayListList\102Arrays\obj\Debug\net8.0\102Arrays.csproj.CoreCompileInputs.cache
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\05ArrayArrayListList\102Arrays\obj\Debug\net8.0\102Arrays.sourcelink.json
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\05ArrayArrayListList\102Arrays\obj\Debug\net8.0\102Arrays.dll
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\05ArrayArrayListList\102Arrays\obj\Debug\net8.0\refint\102Arrays.dll
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\05ArrayArrayListList\102Arrays\obj\Debug\net8.0\102Arrays.pdb
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\05ArrayArrayListList\102Arrays\obj\Debug\net8.0\102Arrays.genruntimeconfig.cache
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\05ArrayArrayListList\102Arrays\obj\Debug\net8.0\ref\102Arrays.dll

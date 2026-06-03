@@ -1,0 +1,36 @@
+2026-06-03 17:59:08.7342 Info Loading assembly name: NLog.Web.AspNetCore
+2026-06-03 17:59:08.7514 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Error loading extensions: NLog.Web.AspNetCore
+ ---> System.IO.FileNotFoundException: Could not load file or assembly 'NLog.Web.AspNetCore, Culture=neutral, PublicKeyToken=null'. O sistema não pode encontrar o arquivo especificado.
+File name: 'NLog.Web.AspNetCore, Culture=neutral, PublicKeyToken=null'
+   at System.Reflection.RuntimeAssembly.InternalLoad(AssemblyName assemblyName, StackCrawlMark& stackMark, AssemblyLoadContext assemblyLoadContext, RuntimeAssembly requestingAssembly, Boolean throwOnFileNotFound)
+   at System.Reflection.Assembly.Load(String assemblyString)
+   at NLog.Config.AssemblyExtensionLoader.LoadAssemblyFromName(String assemblyName)
+   at NLog.Config.AssemblyExtensionLoader.LoadAssemblyFromName(ConfigurationItemFactory factory, String assemblyName, String itemNamePrefix)
+   at NLog.Config.LoggingConfigurationParser.ParseExtensionWithAssemblyName(String assemblyName, String itemNamePrefix)
+   --- End of inner exception stack trace ---
+2026-06-03 17:59:08.8382 Info Registered target NLog.Targets.FileTarget(Name=fileinfo)
+2026-06-03 17:59:08.8382 Info Registered target NLog.Targets.FileTarget(Name=filewarn)
+2026-06-03 17:59:08.8382 Info Registered target NLog.Targets.FileTarget(Name=fileerror)
+2026-06-03 17:59:08.8382 Info Registered target NLog.Targets.ConsoleTarget(Name=console)
+2026-06-03 17:59:08.8507 Info NLog, Version=6.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 6.1.3.5285. Product version: 6.1.3+7f18a90739535f5ddc71c48e0fa28c59e5ee8969. GlobalAssemblyCache: False
+2026-06-03 17:59:08.8857 Info Configuration initialized: TargetNames=fileinfo, filewarn, fileerror, console, ConfigItems=151, AutoReload=true, FilePath=C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\ProjetosExtraCurso\TesteNLog\bin\Debug\net8.0\NLog.config
+2026-06-03 17:59:08.9363 Info AppDomain Shutting down. LogFactory closing...
+2026-06-03 17:59:08.9513 Info LogFactory has been disposed.
+2026-06-03 18:01:47.9808 Info Loading assembly name: NLog.Web.AspNetCore
+2026-06-03 18:01:48.0003 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Error loading extensions: NLog.Web.AspNetCore
+ ---> System.IO.FileNotFoundException: Could not load file or assembly 'NLog.Web.AspNetCore, Culture=neutral, PublicKeyToken=null'. O sistema não pode encontrar o arquivo especificado.
+File name: 'NLog.Web.AspNetCore, Culture=neutral, PublicKeyToken=null'
+   at System.Reflection.RuntimeAssembly.InternalLoad(AssemblyName assemblyName, StackCrawlMark& stackMark, AssemblyLoadContext assemblyLoadContext, RuntimeAssembly requestingAssembly, Boolean throwOnFileNotFound)
+   at System.Reflection.Assembly.Load(String assemblyString)
+   at NLog.Config.AssemblyExtensionLoader.LoadAssemblyFromName(String assemblyName)
+   at NLog.Config.AssemblyExtensionLoader.LoadAssemblyFromName(ConfigurationItemFactory factory, String assemblyName, String itemNamePrefix)
+   at NLog.Config.LoggingConfigurationParser.ParseExtensionWithAssemblyName(String assemblyName, String itemNamePrefix)
+   --- End of inner exception stack trace ---
+2026-06-03 18:01:48.0723 Info Registered target NLog.Targets.FileTarget(Name=fileinfo)
+2026-06-03 18:01:48.0723 Info Registered target NLog.Targets.FileTarget(Name=filewarn)
+2026-06-03 18:01:48.0723 Info Registered target NLog.Targets.FileTarget(Name=fileerror)
+2026-06-03 18:01:48.0723 Info Registered target NLog.Targets.ConsoleTarget(Name=console)
+2026-06-03 18:01:48.0846 Info NLog, Version=6.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 6.1.3.5285. Product version: 6.1.3+7f18a90739535f5ddc71c48e0fa28c59e5ee8969. GlobalAssemblyCache: False
+2026-06-03 18:01:48.1165 Info Configuration initialized: TargetNames=fileinfo, filewarn, fileerror, console, ConfigItems=151, AutoReload=true, FilePath=C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\ProjetosExtraCurso\TesteNLog\bin\Debug\net8.0\NLog.config
+2026-06-03 18:01:48.1714 Info AppDomain Shutting down. LogFactory closing...
+2026-06-03 18:01:48.1873 Info LogFactory has been disposed.

@@ -1,0 +1,15 @@
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\03EstruturasControle\45InstrucaoIF\bin\Debug\net8.0\45InstrucaoIF.exe
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\03EstruturasControle\45InstrucaoIF\bin\Debug\net8.0\45InstrucaoIF.deps.json
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\03EstruturasControle\45InstrucaoIF\bin\Debug\net8.0\45InstrucaoIF.runtimeconfig.json
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\03EstruturasControle\45InstrucaoIF\bin\Debug\net8.0\45InstrucaoIF.dll
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\03EstruturasControle\45InstrucaoIF\bin\Debug\net8.0\45InstrucaoIF.pdb
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\03EstruturasControle\45InstrucaoIF\obj\Debug\net8.0\45InstrucaoIF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\03EstruturasControle\45InstrucaoIF\obj\Debug\net8.0\45InstrucaoIF.AssemblyInfoInputs.cache
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\03EstruturasControle\45InstrucaoIF\obj\Debug\net8.0\45InstrucaoIF.AssemblyInfo.cs
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\03EstruturasControle\45InstrucaoIF\obj\Debug\net8.0\45InstrucaoIF.csproj.CoreCompileInputs.cache
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\03EstruturasControle\45InstrucaoIF\obj\Debug\net8.0\45InstrucaoIF.sourcelink.json
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\03EstruturasControle\45InstrucaoIF\obj\Debug\net8.0\45InstrucaoIF.dll
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\03EstruturasControle\45InstrucaoIF\obj\Debug\net8.0\refint\45InstrucaoIF.dll
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\03EstruturasControle\45InstrucaoIF\obj\Debug\net8.0\45InstrucaoIF.pdb
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\03EstruturasControle\45InstrucaoIF\obj\Debug\net8.0\45InstrucaoIF.genruntimeconfig.cache
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\03EstruturasControle\45InstrucaoIF\obj\Debug\net8.0\ref\45InstrucaoIF.dll

@@ -1,0 +1,15 @@
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\03EstruturasControle\45InstrucaoIF2\bin\Debug\net8.0\45InstrucaoIF2.exe
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\03EstruturasControle\45InstrucaoIF2\bin\Debug\net8.0\45InstrucaoIF2.deps.json
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\03EstruturasControle\45InstrucaoIF2\bin\Debug\net8.0\45InstrucaoIF2.runtimeconfig.json
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\03EstruturasControle\45InstrucaoIF2\bin\Debug\net8.0\45InstrucaoIF2.dll
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\03EstruturasControle\45InstrucaoIF2\bin\Debug\net8.0\45InstrucaoIF2.pdb
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\03EstruturasControle\45InstrucaoIF2\obj\Debug\net8.0\45InstrucaoIF2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\03EstruturasControle\45InstrucaoIF2\obj\Debug\net8.0\45InstrucaoIF2.AssemblyInfoInputs.cache
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\03EstruturasControle\45InstrucaoIF2\obj\Debug\net8.0\45InstrucaoIF2.AssemblyInfo.cs
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\03EstruturasControle\45InstrucaoIF2\obj\Debug\net8.0\45InstrucaoIF2.csproj.CoreCompileInputs.cache
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\03EstruturasControle\45InstrucaoIF2\obj\Debug\net8.0\45InstrucaoIF2.sourcelink.json
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\03EstruturasControle\45InstrucaoIF2\obj\Debug\net8.0\45InstrucaoIF2.dll
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\03EstruturasControle\45InstrucaoIF2\obj\Debug\net8.0\refint\45InstrucaoIF2.dll
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\03EstruturasControle\45InstrucaoIF2\obj\Debug\net8.0\45InstrucaoIF2.pdb
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\03EstruturasControle\45InstrucaoIF2\obj\Debug\net8.0\45InstrucaoIF2.genruntimeconfig.cache
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\03EstruturasControle\45InstrucaoIF2\obj\Debug\net8.0\ref\45InstrucaoIF2.dll

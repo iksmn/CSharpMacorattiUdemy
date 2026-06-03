@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "AWa7LmN53IU=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\icaro.kossman\\Documents\\HubLab\\CSharpMacorattiUdemy\\ProjetosExtraCurso\\TesteNLog\\TesteNLog.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\icaro.kossman\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\icaro.kossman\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "C:\\Users\\icaro.kossman\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\icaro.kossman\\.nuget\\packages\\microsoft.extensions.logging\\8.0.0\\microsoft.extensions.logging.8.0.0.nupkg.sha512",
+    "C:\\Users\\icaro.kossman\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\icaro.kossman\\.nuget\\packages\\microsoft.extensions.options\\8.0.0\\microsoft.extensions.options.8.0.0.nupkg.sha512",
+    "C:\\Users\\icaro.kossman\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "C:\\Users\\icaro.kossman\\.nuget\\packages\\nlog\\6.1.3\\nlog.6.1.3.nupkg.sha512",
+    "C:\\Users\\icaro.kossman\\.nuget\\packages\\nlog.extensions.logging\\6.1.3\\nlog.extensions.logging.6.1.3.nupkg.sha512",
+    "C:\\Users\\icaro.kossman\\.nuget\\packages\\nlog.schema\\6.1.3\\nlog.schema.6.1.3.nupkg.sha512"
+  ],
+  "logs": []
+}

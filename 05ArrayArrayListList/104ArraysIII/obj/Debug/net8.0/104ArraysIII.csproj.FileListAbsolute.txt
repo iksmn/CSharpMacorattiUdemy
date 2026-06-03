@@ -1,0 +1,15 @@
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\05ArrayArrayListList\104ArraysIII\bin\Debug\net8.0\104ArraysIII.exe
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\05ArrayArrayListList\104ArraysIII\bin\Debug\net8.0\104ArraysIII.deps.json
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\05ArrayArrayListList\104ArraysIII\bin\Debug\net8.0\104ArraysIII.runtimeconfig.json
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\05ArrayArrayListList\104ArraysIII\bin\Debug\net8.0\104ArraysIII.dll
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\05ArrayArrayListList\104ArraysIII\bin\Debug\net8.0\104ArraysIII.pdb
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\05ArrayArrayListList\104ArraysIII\obj\Debug\net8.0\104ArraysIII.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\05ArrayArrayListList\104ArraysIII\obj\Debug\net8.0\104ArraysIII.AssemblyInfoInputs.cache
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\05ArrayArrayListList\104ArraysIII\obj\Debug\net8.0\104ArraysIII.AssemblyInfo.cs
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\05ArrayArrayListList\104ArraysIII\obj\Debug\net8.0\104ArraysIII.csproj.CoreCompileInputs.cache
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\05ArrayArrayListList\104ArraysIII\obj\Debug\net8.0\104ArraysIII.sourcelink.json
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\05ArrayArrayListList\104ArraysIII\obj\Debug\net8.0\104ArraysIII.dll
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\05ArrayArrayListList\104ArraysIII\obj\Debug\net8.0\refint\104ArraysIII.dll
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\05ArrayArrayListList\104ArraysIII\obj\Debug\net8.0\104ArraysIII.pdb
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\05ArrayArrayListList\104ArraysIII\obj\Debug\net8.0\104ArraysIII.genruntimeconfig.cache
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\05ArrayArrayListList\104ArraysIII\obj\Debug\net8.0\ref\104ArraysIII.dll
