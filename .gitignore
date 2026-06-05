@@ -32,6 +32,7 @@
 
 # Generated files
 .idea/**/contentModel.xml
+.idea/
 
 # Sensitive or high-churn files
 .idea/**/dataSources/
@@ -108,6 +109,7 @@ fabric.properties
 
 # Built Visual Studio Code Extensions
 *.vsix
+.vs/
 
 ### VisualStudioCode Patch ###
 # Ignore all local history of files

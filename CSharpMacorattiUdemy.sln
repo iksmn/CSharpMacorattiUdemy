@@ -46,6 +46,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "104ArraysIII", "05ArrayArra
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "105ClasseArray", "05ArrayArrayListList\105ClasseArray\105ClasseArray.csproj", "{A4DFCDC0-29C6-42FE-A2EB-8F1C278F4465}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "106ExercicioArray", "05ArrayArrayListList\106ExercicioArray\106ExercicioArray.csproj", "{EEEA8638-AC66-4CE3-B827-185381520549}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "106ExercicioArrayProfessor", "05ArrayArrayListList\106ExercicioArrayProfessor\106ExercicioArrayProfessor.csproj", "{D379964E-A731-456C-8083-9B91B18FFB9F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -144,6 +148,14 @@ Global
 		{A4DFCDC0-29C6-42FE-A2EB-8F1C278F4465}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A4DFCDC0-29C6-42FE-A2EB-8F1C278F4465}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A4DFCDC0-29C6-42FE-A2EB-8F1C278F4465}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EEEA8638-AC66-4CE3-B827-185381520549}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEEA8638-AC66-4CE3-B827-185381520549}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEEA8638-AC66-4CE3-B827-185381520549}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEEA8638-AC66-4CE3-B827-185381520549}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D379964E-A731-456C-8083-9B91B18FFB9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D379964E-A731-456C-8083-9B91B18FFB9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D379964E-A731-456C-8083-9B91B18FFB9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D379964E-A731-456C-8083-9B91B18FFB9F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 	EndGlobalSection

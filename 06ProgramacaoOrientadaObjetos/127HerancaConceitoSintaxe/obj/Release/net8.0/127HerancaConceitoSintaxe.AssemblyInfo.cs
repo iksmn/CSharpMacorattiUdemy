@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("127HerancaConceitoSintaxe")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6b5d6a0aebc29421a22b7245c462aa52c47a69b4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e427316966bc4b4b782520be99ebef87e802e10d")]
 [assembly: System.Reflection.AssemblyProductAttribute("127HerancaConceitoSintaxe")]
 [assembly: System.Reflection.AssemblyTitleAttribute("127HerancaConceitoSintaxe")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,15 @@
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\05ArrayArrayListList\106ExercicioArray\bin\Debug\net8.0\106ExercicioArray.exe
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\05ArrayArrayListList\106ExercicioArray\bin\Debug\net8.0\106ExercicioArray.deps.json
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\05ArrayArrayListList\106ExercicioArray\bin\Debug\net8.0\106ExercicioArray.runtimeconfig.json
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\05ArrayArrayListList\106ExercicioArray\bin\Debug\net8.0\106ExercicioArray.dll
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\05ArrayArrayListList\106ExercicioArray\bin\Debug\net8.0\106ExercicioArray.pdb
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\05ArrayArrayListList\106ExercicioArray\obj\Debug\net8.0\106ExercicioArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\05ArrayArrayListList\106ExercicioArray\obj\Debug\net8.0\106ExercicioArray.AssemblyInfoInputs.cache
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\05ArrayArrayListList\106ExercicioArray\obj\Debug\net8.0\106ExercicioArray.AssemblyInfo.cs
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\05ArrayArrayListList\106ExercicioArray\obj\Debug\net8.0\106ExercicioArray.csproj.CoreCompileInputs.cache
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\05ArrayArrayListList\106ExercicioArray\obj\Debug\net8.0\106ExercicioArray.sourcelink.json
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\05ArrayArrayListList\106ExercicioArray\obj\Debug\net8.0\106ExercicioArray.dll
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\05ArrayArrayListList\106ExercicioArray\obj\Debug\net8.0\refint\106ExercicioArray.dll
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\05ArrayArrayListList\106ExercicioArray\obj\Debug\net8.0\106ExercicioArray.pdb
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\05ArrayArrayListList\106ExercicioArray\obj\Debug\net8.0\106ExercicioArray.genruntimeconfig.cache
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\05ArrayArrayListList\106ExercicioArray\obj\Debug\net8.0\ref\106ExercicioArray.dll
