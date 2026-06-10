@@ -70,6 +70,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "116ColecaoListTII", "05Arra
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "116ColecaoListTII_2", "05ArrayArrayListList\116ColecaoListTII_2\116ColecaoListTII_2.csproj", "{47DF72CF-9389-4534-9C56-B4BA2D5F057F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "118ListMetodosFind", "05ArrayArrayListList\118ListMetodosFind\118ListMetodosFind.csproj", "{F47C95C0-7631-4865-BD8E-5098CEFF989A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "119ListMetodosFIndExpressoesLambdas", "05ArrayArrayListList\119ListMetodosFIndExpressoesLambdas\119ListMetodosFIndExpressoesLambdas.csproj", "{531C9890-2F9F-4D70-9CCF-FEBC8331C2C8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -216,6 +220,14 @@ Global
 		{47DF72CF-9389-4534-9C56-B4BA2D5F057F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{47DF72CF-9389-4534-9C56-B4BA2D5F057F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{47DF72CF-9389-4534-9C56-B4BA2D5F057F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F47C95C0-7631-4865-BD8E-5098CEFF989A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F47C95C0-7631-4865-BD8E-5098CEFF989A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F47C95C0-7631-4865-BD8E-5098CEFF989A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F47C95C0-7631-4865-BD8E-5098CEFF989A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{531C9890-2F9F-4D70-9CCF-FEBC8331C2C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{531C9890-2F9F-4D70-9CCF-FEBC8331C2C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{531C9890-2F9F-4D70-9CCF-FEBC8331C2C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{531C9890-2F9F-4D70-9CCF-FEBC8331C2C8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 	EndGlobalSection

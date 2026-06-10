@@ -1,0 +1,15 @@
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\05ArrayArrayListList\118ListMetodosFind\bin\Debug\net8.0\118ListMetodosFind.exe
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\05ArrayArrayListList\118ListMetodosFind\bin\Debug\net8.0\118ListMetodosFind.deps.json
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\05ArrayArrayListList\118ListMetodosFind\bin\Debug\net8.0\118ListMetodosFind.runtimeconfig.json
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\05ArrayArrayListList\118ListMetodosFind\bin\Debug\net8.0\118ListMetodosFind.dll
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\05ArrayArrayListList\118ListMetodosFind\bin\Debug\net8.0\118ListMetodosFind.pdb
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\05ArrayArrayListList\118ListMetodosFind\obj\Debug\net8.0\118ListMetodosFind.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\05ArrayArrayListList\118ListMetodosFind\obj\Debug\net8.0\118ListMetodosFind.AssemblyInfoInputs.cache
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\05ArrayArrayListList\118ListMetodosFind\obj\Debug\net8.0\118ListMetodosFind.AssemblyInfo.cs
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\05ArrayArrayListList\118ListMetodosFind\obj\Debug\net8.0\118ListMetodosFind.csproj.CoreCompileInputs.cache
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\05ArrayArrayListList\118ListMetodosFind\obj\Debug\net8.0\118ListMetodosFind.sourcelink.json
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\05ArrayArrayListList\118ListMetodosFind\obj\Debug\net8.0\118ListMetodosFind.dll
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\05ArrayArrayListList\118ListMetodosFind\obj\Debug\net8.0\refint\118ListMetodosFind.dll
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\05ArrayArrayListList\118ListMetodosFind\obj\Debug\net8.0\118ListMetodosFind.pdb
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\05ArrayArrayListList\118ListMetodosFind\obj\Debug\net8.0\118ListMetodosFind.genruntimeconfig.cache
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\05ArrayArrayListList\118ListMetodosFind\obj\Debug\net8.0\ref\118ListMetodosFind.dll
