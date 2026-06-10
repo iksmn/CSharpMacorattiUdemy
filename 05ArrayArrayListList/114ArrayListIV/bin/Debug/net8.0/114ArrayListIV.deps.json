@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "114ArrayListIV/1.0.0": {
+        "runtime": {
+          "114ArrayListIV.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "114ArrayListIV/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\05ArrayArrayListList\111ArrayListI\bin\Debug\net8.0\111ArrayListI.exe
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\05ArrayArrayListList\111ArrayListI\bin\Debug\net8.0\111ArrayListI.deps.json
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\05ArrayArrayListList\111ArrayListI\bin\Debug\net8.0\111ArrayListI.runtimeconfig.json
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\05ArrayArrayListList\111ArrayListI\bin\Debug\net8.0\111ArrayListI.dll
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\05ArrayArrayListList\111ArrayListI\bin\Debug\net8.0\111ArrayListI.pdb
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\05ArrayArrayListList\111ArrayListI\obj\Debug\net8.0\111ArrayListI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\05ArrayArrayListList\111ArrayListI\obj\Debug\net8.0\111ArrayListI.AssemblyInfoInputs.cache
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\05ArrayArrayListList\111ArrayListI\obj\Debug\net8.0\111ArrayListI.AssemblyInfo.cs
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\05ArrayArrayListList\111ArrayListI\obj\Debug\net8.0\111ArrayListI.csproj.CoreCompileInputs.cache
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\05ArrayArrayListList\111ArrayListI\obj\Debug\net8.0\111ArrayListI.sourcelink.json
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\05ArrayArrayListList\111ArrayListI\obj\Debug\net8.0\111ArrayListI.dll
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\05ArrayArrayListList\111ArrayListI\obj\Debug\net8.0\refint\111ArrayListI.dll
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\05ArrayArrayListList\111ArrayListI\obj\Debug\net8.0\111ArrayListI.pdb
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\05ArrayArrayListList\111ArrayListI\obj\Debug\net8.0\111ArrayListI.genruntimeconfig.cache
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\05ArrayArrayListList\111ArrayListI\obj\Debug\net8.0\ref\111ArrayListI.dll

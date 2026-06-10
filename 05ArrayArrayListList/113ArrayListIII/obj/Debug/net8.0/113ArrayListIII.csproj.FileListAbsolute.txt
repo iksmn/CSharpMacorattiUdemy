@@ -1,0 +1,15 @@
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\05ArrayArrayListList\113ArrayListIII\bin\Debug\net8.0\113ArrayListIII.exe
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\05ArrayArrayListList\113ArrayListIII\bin\Debug\net8.0\113ArrayListIII.deps.json
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\05ArrayArrayListList\113ArrayListIII\bin\Debug\net8.0\113ArrayListIII.runtimeconfig.json
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\05ArrayArrayListList\113ArrayListIII\bin\Debug\net8.0\113ArrayListIII.dll
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\05ArrayArrayListList\113ArrayListIII\bin\Debug\net8.0\113ArrayListIII.pdb
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\05ArrayArrayListList\113ArrayListIII\obj\Debug\net8.0\113ArrayListIII.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\05ArrayArrayListList\113ArrayListIII\obj\Debug\net8.0\113ArrayListIII.AssemblyInfoInputs.cache
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\05ArrayArrayListList\113ArrayListIII\obj\Debug\net8.0\113ArrayListIII.AssemblyInfo.cs
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\05ArrayArrayListList\113ArrayListIII\obj\Debug\net8.0\113ArrayListIII.csproj.CoreCompileInputs.cache
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\05ArrayArrayListList\113ArrayListIII\obj\Debug\net8.0\113ArrayListIII.sourcelink.json
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\05ArrayArrayListList\113ArrayListIII\obj\Debug\net8.0\113ArrayListIII.dll
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\05ArrayArrayListList\113ArrayListIII\obj\Debug\net8.0\refint\113ArrayListIII.dll
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\05ArrayArrayListList\113ArrayListIII\obj\Debug\net8.0\113ArrayListIII.pdb
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\05ArrayArrayListList\113ArrayListIII\obj\Debug\net8.0\113ArrayListIII.genruntimeconfig.cache
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\05ArrayArrayListList\113ArrayListIII\obj\Debug\net8.0\ref\113ArrayListIII.dll

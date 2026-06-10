@@ -1,0 +1,15 @@
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\05ArrayArrayListList\107ModificadorParamsI\bin\Debug\net8.0\107ModificadorParamsI.exe
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\05ArrayArrayListList\107ModificadorParamsI\bin\Debug\net8.0\107ModificadorParamsI.deps.json
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\05ArrayArrayListList\107ModificadorParamsI\bin\Debug\net8.0\107ModificadorParamsI.runtimeconfig.json
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\05ArrayArrayListList\107ModificadorParamsI\bin\Debug\net8.0\107ModificadorParamsI.dll
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\05ArrayArrayListList\107ModificadorParamsI\bin\Debug\net8.0\107ModificadorParamsI.pdb
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\05ArrayArrayListList\107ModificadorParamsI\obj\Debug\net8.0\107ModificadorParamsI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\05ArrayArrayListList\107ModificadorParamsI\obj\Debug\net8.0\107ModificadorParamsI.AssemblyInfoInputs.cache
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\05ArrayArrayListList\107ModificadorParamsI\obj\Debug\net8.0\107ModificadorParamsI.AssemblyInfo.cs
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\05ArrayArrayListList\107ModificadorParamsI\obj\Debug\net8.0\107ModificadorParamsI.csproj.CoreCompileInputs.cache
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\05ArrayArrayListList\107ModificadorParamsI\obj\Debug\net8.0\107ModificadorParamsI.sourcelink.json
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\05ArrayArrayListList\107ModificadorParamsI\obj\Debug\net8.0\107ModificadorParamsI.dll
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\05ArrayArrayListList\107ModificadorParamsI\obj\Debug\net8.0\refint\107ModificadorParamsI.dll
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\05ArrayArrayListList\107ModificadorParamsI\obj\Debug\net8.0\107ModificadorParamsI.pdb
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\05ArrayArrayListList\107ModificadorParamsI\obj\Debug\net8.0\107ModificadorParamsI.genruntimeconfig.cache
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\05ArrayArrayListList\107ModificadorParamsI\obj\Debug\net8.0\ref\107ModificadorParamsI.dll

@@ -1,0 +1,15 @@
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\05ArrayArrayListList\115ColeçãoListTI\bin\Debug\net8.0\115ColeçãoListTI.exe
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\05ArrayArrayListList\115ColeçãoListTI\bin\Debug\net8.0\115ColeçãoListTI.deps.json
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\05ArrayArrayListList\115ColeçãoListTI\bin\Debug\net8.0\115ColeçãoListTI.runtimeconfig.json
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\05ArrayArrayListList\115ColeçãoListTI\bin\Debug\net8.0\115ColeçãoListTI.dll
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\05ArrayArrayListList\115ColeçãoListTI\bin\Debug\net8.0\115ColeçãoListTI.pdb
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\05ArrayArrayListList\115ColeçãoListTI\obj\Debug\net8.0\115ColeçãoListTI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\05ArrayArrayListList\115ColeçãoListTI\obj\Debug\net8.0\115ColeçãoListTI.AssemblyInfoInputs.cache
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\05ArrayArrayListList\115ColeçãoListTI\obj\Debug\net8.0\115ColeçãoListTI.AssemblyInfo.cs
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\05ArrayArrayListList\115ColeçãoListTI\obj\Debug\net8.0\115ColeçãoListTI.csproj.CoreCompileInputs.cache
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\05ArrayArrayListList\115ColeçãoListTI\obj\Debug\net8.0\115ColeçãoListTI.sourcelink.json
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\05ArrayArrayListList\115ColeçãoListTI\obj\Debug\net8.0\115ColeçãoListTI.dll
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\05ArrayArrayListList\115ColeçãoListTI\obj\Debug\net8.0\refint\115ColeçãoListTI.dll
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\05ArrayArrayListList\115ColeçãoListTI\obj\Debug\net8.0\115ColeçãoListTI.pdb
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\05ArrayArrayListList\115ColeçãoListTI\obj\Debug\net8.0\115ColeçãoListTI.genruntimeconfig.cache
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\05ArrayArrayListList\115ColeçãoListTI\obj\Debug\net8.0\ref\115ColeçãoListTI.dll

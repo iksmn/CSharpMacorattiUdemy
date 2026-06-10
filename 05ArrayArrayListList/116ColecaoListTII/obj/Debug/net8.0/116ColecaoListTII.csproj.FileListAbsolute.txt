@@ -1,0 +1,15 @@
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\05ArrayArrayListList\116ColecaoListTII\bin\Debug\net8.0\116ColecaoListTII.exe
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\05ArrayArrayListList\116ColecaoListTII\bin\Debug\net8.0\116ColecaoListTII.deps.json
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\05ArrayArrayListList\116ColecaoListTII\bin\Debug\net8.0\116ColecaoListTII.runtimeconfig.json
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\05ArrayArrayListList\116ColecaoListTII\bin\Debug\net8.0\116ColecaoListTII.dll
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\05ArrayArrayListList\116ColecaoListTII\bin\Debug\net8.0\116ColecaoListTII.pdb
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\05ArrayArrayListList\116ColecaoListTII\obj\Debug\net8.0\116ColecaoListTII.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\05ArrayArrayListList\116ColecaoListTII\obj\Debug\net8.0\116ColecaoListTII.AssemblyInfoInputs.cache
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\05ArrayArrayListList\116ColecaoListTII\obj\Debug\net8.0\116ColecaoListTII.AssemblyInfo.cs
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\05ArrayArrayListList\116ColecaoListTII\obj\Debug\net8.0\116ColecaoListTII.csproj.CoreCompileInputs.cache
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\05ArrayArrayListList\116ColecaoListTII\obj\Debug\net8.0\116ColecaoListTII.sourcelink.json
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\05ArrayArrayListList\116ColecaoListTII\obj\Debug\net8.0\116ColecaoListTII.dll
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\05ArrayArrayListList\116ColecaoListTII\obj\Debug\net8.0\refint\116ColecaoListTII.dll
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\05ArrayArrayListList\116ColecaoListTII\obj\Debug\net8.0\116ColecaoListTII.pdb
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\05ArrayArrayListList\116ColecaoListTII\obj\Debug\net8.0\116ColecaoListTII.genruntimeconfig.cache
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\05ArrayArrayListList\116ColecaoListTII\obj\Debug\net8.0\ref\116ColecaoListTII.dll
