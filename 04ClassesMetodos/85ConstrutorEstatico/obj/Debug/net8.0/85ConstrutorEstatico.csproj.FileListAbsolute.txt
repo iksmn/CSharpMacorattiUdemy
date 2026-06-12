@@ -1,0 +1,15 @@
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\04ClassesMetodos\85ConstrutorEstatico\bin\Debug\net8.0\85ConstrutorEstatico.exe
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\04ClassesMetodos\85ConstrutorEstatico\bin\Debug\net8.0\85ConstrutorEstatico.deps.json
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\04ClassesMetodos\85ConstrutorEstatico\bin\Debug\net8.0\85ConstrutorEstatico.runtimeconfig.json
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\04ClassesMetodos\85ConstrutorEstatico\bin\Debug\net8.0\85ConstrutorEstatico.dll
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\04ClassesMetodos\85ConstrutorEstatico\bin\Debug\net8.0\85ConstrutorEstatico.pdb
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\04ClassesMetodos\85ConstrutorEstatico\obj\Debug\net8.0\85ConstrutorEstatico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\04ClassesMetodos\85ConstrutorEstatico\obj\Debug\net8.0\85ConstrutorEstatico.AssemblyInfoInputs.cache
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\04ClassesMetodos\85ConstrutorEstatico\obj\Debug\net8.0\85ConstrutorEstatico.AssemblyInfo.cs
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\04ClassesMetodos\85ConstrutorEstatico\obj\Debug\net8.0\85ConstrutorEstatico.csproj.CoreCompileInputs.cache
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\04ClassesMetodos\85ConstrutorEstatico\obj\Debug\net8.0\85ConstrutorEstatico.sourcelink.json
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\04ClassesMetodos\85ConstrutorEstatico\obj\Debug\net8.0\85ConstrutorEstatico.dll
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\04ClassesMetodos\85ConstrutorEstatico\obj\Debug\net8.0\refint\85ConstrutorEstatico.dll
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\04ClassesMetodos\85ConstrutorEstatico\obj\Debug\net8.0\85ConstrutorEstatico.pdb
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\04ClassesMetodos\85ConstrutorEstatico\obj\Debug\net8.0\85ConstrutorEstatico.genruntimeconfig.cache
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\04ClassesMetodos\85ConstrutorEstatico\obj\Debug\net8.0\ref\85ConstrutorEstatico.dll

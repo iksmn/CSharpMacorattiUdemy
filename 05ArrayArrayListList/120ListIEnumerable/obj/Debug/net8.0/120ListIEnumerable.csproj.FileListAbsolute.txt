@@ -1,0 +1,15 @@
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\05ArrayArrayListList\120ListIEnumerable\bin\Debug\net8.0\120ListIEnumerable.exe
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\05ArrayArrayListList\120ListIEnumerable\bin\Debug\net8.0\120ListIEnumerable.deps.json
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\05ArrayArrayListList\120ListIEnumerable\bin\Debug\net8.0\120ListIEnumerable.runtimeconfig.json
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\05ArrayArrayListList\120ListIEnumerable\bin\Debug\net8.0\120ListIEnumerable.dll
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\05ArrayArrayListList\120ListIEnumerable\bin\Debug\net8.0\120ListIEnumerable.pdb
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\05ArrayArrayListList\120ListIEnumerable\obj\Debug\net8.0\120ListIEnumerable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\05ArrayArrayListList\120ListIEnumerable\obj\Debug\net8.0\120ListIEnumerable.AssemblyInfoInputs.cache
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\05ArrayArrayListList\120ListIEnumerable\obj\Debug\net8.0\120ListIEnumerable.AssemblyInfo.cs
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\05ArrayArrayListList\120ListIEnumerable\obj\Debug\net8.0\120ListIEnumerable.csproj.CoreCompileInputs.cache
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\05ArrayArrayListList\120ListIEnumerable\obj\Debug\net8.0\120ListIEnumerable.sourcelink.json
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\05ArrayArrayListList\120ListIEnumerable\obj\Debug\net8.0\120ListIEnumerable.dll
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\05ArrayArrayListList\120ListIEnumerable\obj\Debug\net8.0\refint\120ListIEnumerable.dll
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\05ArrayArrayListList\120ListIEnumerable\obj\Debug\net8.0\120ListIEnumerable.pdb
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\05ArrayArrayListList\120ListIEnumerable\obj\Debug\net8.0\120ListIEnumerable.genruntimeconfig.cache
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\05ArrayArrayListList\120ListIEnumerable\obj\Debug\net8.0\ref\120ListIEnumerable.dll
