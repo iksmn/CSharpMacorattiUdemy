@@ -1,0 +1,15 @@
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\02Fundamentos\20TiposNumerosPontoFlutuante\bin\Debug\net8.0\20TiposNumerosPontoFlutuante.exe
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\02Fundamentos\20TiposNumerosPontoFlutuante\bin\Debug\net8.0\20TiposNumerosPontoFlutuante.deps.json
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\02Fundamentos\20TiposNumerosPontoFlutuante\bin\Debug\net8.0\20TiposNumerosPontoFlutuante.runtimeconfig.json
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\02Fundamentos\20TiposNumerosPontoFlutuante\bin\Debug\net8.0\20TiposNumerosPontoFlutuante.dll
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\02Fundamentos\20TiposNumerosPontoFlutuante\bin\Debug\net8.0\20TiposNumerosPontoFlutuante.pdb
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\02Fundamentos\20TiposNumerosPontoFlutuante\obj\Debug\net8.0\20TiposNumerosPontoFlutuante.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\02Fundamentos\20TiposNumerosPontoFlutuante\obj\Debug\net8.0\20TiposNumerosPontoFlutuante.AssemblyInfoInputs.cache
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\02Fundamentos\20TiposNumerosPontoFlutuante\obj\Debug\net8.0\20TiposNumerosPontoFlutuante.AssemblyInfo.cs
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\02Fundamentos\20TiposNumerosPontoFlutuante\obj\Debug\net8.0\20TiposNumerosPontoFlutuante.csproj.CoreCompileInputs.cache
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\02Fundamentos\20TiposNumerosPontoFlutuante\obj\Debug\net8.0\20TiposNumerosPontoFlutuante.sourcelink.json
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\02Fundamentos\20TiposNumerosPontoFlutuante\obj\Debug\net8.0\20TiposNumerosPontoFlutuante.dll
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\02Fundamentos\20TiposNumerosPontoFlutuante\obj\Debug\net8.0\refint\20TiposNumerosPontoFlutuante.dll
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\02Fundamentos\20TiposNumerosPontoFlutuante\obj\Debug\net8.0\20TiposNumerosPontoFlutuante.pdb
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\02Fundamentos\20TiposNumerosPontoFlutuante\obj\Debug\net8.0\20TiposNumerosPontoFlutuante.genruntimeconfig.cache
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\02Fundamentos\20TiposNumerosPontoFlutuante\obj\Debug\net8.0\ref\20TiposNumerosPontoFlutuante.dll

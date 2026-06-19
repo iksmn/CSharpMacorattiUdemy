@@ -1,0 +1,15 @@
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\02Fundamentos\19TiposNumericosIntegrais\bin\Debug\net8.0\19TiposNumericosIntegrais.exe
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\02Fundamentos\19TiposNumericosIntegrais\bin\Debug\net8.0\19TiposNumericosIntegrais.deps.json
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\02Fundamentos\19TiposNumericosIntegrais\bin\Debug\net8.0\19TiposNumericosIntegrais.runtimeconfig.json
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\02Fundamentos\19TiposNumericosIntegrais\bin\Debug\net8.0\19TiposNumericosIntegrais.dll
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\02Fundamentos\19TiposNumericosIntegrais\bin\Debug\net8.0\19TiposNumericosIntegrais.pdb
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\02Fundamentos\19TiposNumericosIntegrais\obj\Debug\net8.0\19TiposNumericosIntegrais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\02Fundamentos\19TiposNumericosIntegrais\obj\Debug\net8.0\19TiposNumericosIntegrais.AssemblyInfoInputs.cache
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\02Fundamentos\19TiposNumericosIntegrais\obj\Debug\net8.0\19TiposNumericosIntegrais.AssemblyInfo.cs
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\02Fundamentos\19TiposNumericosIntegrais\obj\Debug\net8.0\19TiposNumericosIntegrais.csproj.CoreCompileInputs.cache
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\02Fundamentos\19TiposNumericosIntegrais\obj\Debug\net8.0\19TiposNumericosIntegrais.sourcelink.json
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\02Fundamentos\19TiposNumericosIntegrais\obj\Debug\net8.0\19TiposNumericosIntegrais.dll
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\02Fundamentos\19TiposNumericosIntegrais\obj\Debug\net8.0\refint\19TiposNumericosIntegrais.dll
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\02Fundamentos\19TiposNumericosIntegrais\obj\Debug\net8.0\19TiposNumericosIntegrais.pdb
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\02Fundamentos\19TiposNumericosIntegrais\obj\Debug\net8.0\19TiposNumericosIntegrais.genruntimeconfig.cache
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\02Fundamentos\19TiposNumericosIntegrais\obj\Debug\net8.0\ref\19TiposNumericosIntegrais.dll

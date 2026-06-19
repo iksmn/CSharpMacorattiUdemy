@@ -1,0 +1,15 @@
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\04ClassesMetodos\87ExercíciosPropriedades\bin\Debug\net8.0\87ExercíciosPropriedades.exe
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\04ClassesMetodos\87ExercíciosPropriedades\bin\Debug\net8.0\87ExercíciosPropriedades.deps.json
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\04ClassesMetodos\87ExercíciosPropriedades\bin\Debug\net8.0\87ExercíciosPropriedades.runtimeconfig.json
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\04ClassesMetodos\87ExercíciosPropriedades\bin\Debug\net8.0\87ExercíciosPropriedades.dll
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\04ClassesMetodos\87ExercíciosPropriedades\bin\Debug\net8.0\87ExercíciosPropriedades.pdb
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\04ClassesMetodos\87ExercíciosPropriedades\obj\Debug\net8.0\87ExercíciosPropriedades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\04ClassesMetodos\87ExercíciosPropriedades\obj\Debug\net8.0\87ExercíciosPropriedades.AssemblyInfoInputs.cache
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\04ClassesMetodos\87ExercíciosPropriedades\obj\Debug\net8.0\87ExercíciosPropriedades.AssemblyInfo.cs
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\04ClassesMetodos\87ExercíciosPropriedades\obj\Debug\net8.0\87ExercíciosPropriedades.csproj.CoreCompileInputs.cache
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\04ClassesMetodos\87ExercíciosPropriedades\obj\Debug\net8.0\87ExercíciosPropriedades.sourcelink.json
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\04ClassesMetodos\87ExercíciosPropriedades\obj\Debug\net8.0\87ExercíciosPropriedades.dll
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\04ClassesMetodos\87ExercíciosPropriedades\obj\Debug\net8.0\refint\87ExercíciosPropriedades.dll
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\04ClassesMetodos\87ExercíciosPropriedades\obj\Debug\net8.0\87ExercíciosPropriedades.pdb
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\04ClassesMetodos\87ExercíciosPropriedades\obj\Debug\net8.0\87ExercíciosPropriedades.genruntimeconfig.cache
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\04ClassesMetodos\87ExercíciosPropriedades\obj\Debug\net8.0\ref\87ExercíciosPropriedades.dll

@@ -1,0 +1,15 @@
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\02Fundamentos\23TratamentoDeDataHoraDateTime\bin\Debug\net8.0\23TratamentoDeDataHoraDateTime.exe
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\02Fundamentos\23TratamentoDeDataHoraDateTime\bin\Debug\net8.0\23TratamentoDeDataHoraDateTime.deps.json
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\02Fundamentos\23TratamentoDeDataHoraDateTime\bin\Debug\net8.0\23TratamentoDeDataHoraDateTime.runtimeconfig.json
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\02Fundamentos\23TratamentoDeDataHoraDateTime\bin\Debug\net8.0\23TratamentoDeDataHoraDateTime.dll
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\02Fundamentos\23TratamentoDeDataHoraDateTime\bin\Debug\net8.0\23TratamentoDeDataHoraDateTime.pdb
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\02Fundamentos\23TratamentoDeDataHoraDateTime\obj\Debug\net8.0\23TratamentoDeDataHoraDateTime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\02Fundamentos\23TratamentoDeDataHoraDateTime\obj\Debug\net8.0\23TratamentoDeDataHoraDateTime.AssemblyInfoInputs.cache
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\02Fundamentos\23TratamentoDeDataHoraDateTime\obj\Debug\net8.0\23TratamentoDeDataHoraDateTime.AssemblyInfo.cs
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\02Fundamentos\23TratamentoDeDataHoraDateTime\obj\Debug\net8.0\23TratamentoDeDataHoraDateTime.csproj.CoreCompileInputs.cache
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\02Fundamentos\23TratamentoDeDataHoraDateTime\obj\Debug\net8.0\23TratamentoDeDataHoraDateTime.sourcelink.json
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\02Fundamentos\23TratamentoDeDataHoraDateTime\obj\Debug\net8.0\23TratamentoDeDataHoraDateTime.dll
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\02Fundamentos\23TratamentoDeDataHoraDateTime\obj\Debug\net8.0\refint\23TratamentoDeDataHoraDateTime.dll
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\02Fundamentos\23TratamentoDeDataHoraDateTime\obj\Debug\net8.0\23TratamentoDeDataHoraDateTime.pdb
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\02Fundamentos\23TratamentoDeDataHoraDateTime\obj\Debug\net8.0\23TratamentoDeDataHoraDateTime.genruntimeconfig.cache
+C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\02Fundamentos\23TratamentoDeDataHoraDateTime\obj\Debug\net8.0\ref\23TratamentoDeDataHoraDateTime.dll

@@ -74,6 +74,14 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "118ListMetodosFind", "05Arr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "119ListMetodosFIndExpressoesLambdas", "05ArrayArrayListList\119ListMetodosFIndExpressoesLambdas\119ListMetodosFIndExpressoesLambdas.csproj", "{531C9890-2F9F-4D70-9CCF-FEBC8331C2C8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "23TratamentoDeDataHoraDateTime", "02Fundamentos\23TratamentoDeDataHoraDateTime\23TratamentoDeDataHoraDateTime.csproj", "{037629E4-F6AB-4EA3-B9FB-175148C5C4AC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "19TiposNumericosIntegrais", "02Fundamentos\19TiposNumericosIntegrais\19TiposNumericosIntegrais.csproj", "{E7F135F8-2E13-42BC-AC92-458AE373926B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "20TiposNumerosPontoFlutuante", "02Fundamentos\20TiposNumerosPontoFlutuante\20TiposNumerosPontoFlutuante.csproj", "{B31DC512-F247-457C-9B9A-B4B26EA991E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "87ExercíciosPropriedades", "04ClassesMetodos\87ExercíciosPropriedades\87ExercíciosPropriedades.csproj", "{345737C0-502B-48CC-BEEA-B22E0726561B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -228,6 +236,22 @@ Global
 		{531C9890-2F9F-4D70-9CCF-FEBC8331C2C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{531C9890-2F9F-4D70-9CCF-FEBC8331C2C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{531C9890-2F9F-4D70-9CCF-FEBC8331C2C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{037629E4-F6AB-4EA3-B9FB-175148C5C4AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{037629E4-F6AB-4EA3-B9FB-175148C5C4AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{037629E4-F6AB-4EA3-B9FB-175148C5C4AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{037629E4-F6AB-4EA3-B9FB-175148C5C4AC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7F135F8-2E13-42BC-AC92-458AE373926B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7F135F8-2E13-42BC-AC92-458AE373926B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7F135F8-2E13-42BC-AC92-458AE373926B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7F135F8-2E13-42BC-AC92-458AE373926B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B31DC512-F247-457C-9B9A-B4B26EA991E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B31DC512-F247-457C-9B9A-B4B26EA991E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B31DC512-F247-457C-9B9A-B4B26EA991E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B31DC512-F247-457C-9B9A-B4B26EA991E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{345737C0-502B-48CC-BEEA-B22E0726561B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{345737C0-502B-48CC-BEEA-B22E0726561B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{345737C0-502B-48CC-BEEA-B22E0726561B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{345737C0-502B-48CC-BEEA-B22E0726561B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 	EndGlobalSection
