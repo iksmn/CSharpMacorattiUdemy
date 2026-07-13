@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = _126PilaresdePOO
-build_property.ProjectDir = C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\06ProgramacaoOrientadaObjetos\126PilaresdePOO\
+build_property.ProjectDir = /home/icaro/Repositories/CSharpMacorattiUdemy/06ProgramacaoOrientadaObjetos/126PilaresdePOO/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

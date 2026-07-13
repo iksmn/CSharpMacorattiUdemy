@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = _118ListMetodosFind
-build_property.ProjectDir = C:\Users\icaro.kossman\Documents\HubLab\CSharpMacorattiUdemy\05ArrayArrayListList\118ListMetodosFind\
+build_property.ProjectDir = /home/icaro/Repositories/CSharpMacorattiUdemy/05ArrayArrayListList/118ListMetodosFind/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
