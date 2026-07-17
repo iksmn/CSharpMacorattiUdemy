@@ -84,6 +84,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "21TiposBoolChar", "02Fundam
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "59ClasseObjeto", "04ClassesMetodos\59ClasseObjeto\59ClasseObjeto.csproj", "{1E732633-E1EC-4AC8-94DC-23A47581B12E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "62Metodos", "04ClassesMetodos\62Metodos\62Metodos.csproj", "{A26ABDE9-0E64-41EA-B850-0255D013416B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "63MetodosComParametros", "04ClassesMetodos\63MetodosComParametros\63MetodosComParametros.csproj", "{7B582EF5-8FC6-4670-AB7F-6E58C6FD9E4A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "64PassandoParametros", "04ClassesMetodos\64PassandoParametros\64PassandoParametros.csproj", "{6E61EFB4-6AF0-45A7-90CF-D77D04A594EC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -258,6 +264,18 @@ Global
 		{1E732633-E1EC-4AC8-94DC-23A47581B12E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1E732633-E1EC-4AC8-94DC-23A47581B12E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1E732633-E1EC-4AC8-94DC-23A47581B12E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A26ABDE9-0E64-41EA-B850-0255D013416B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A26ABDE9-0E64-41EA-B850-0255D013416B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A26ABDE9-0E64-41EA-B850-0255D013416B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A26ABDE9-0E64-41EA-B850-0255D013416B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B582EF5-8FC6-4670-AB7F-6E58C6FD9E4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B582EF5-8FC6-4670-AB7F-6E58C6FD9E4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B582EF5-8FC6-4670-AB7F-6E58C6FD9E4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B582EF5-8FC6-4670-AB7F-6E58C6FD9E4A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E61EFB4-6AF0-45A7-90CF-D77D04A594EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E61EFB4-6AF0-45A7-90CF-D77D04A594EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E61EFB4-6AF0-45A7-90CF-D77D04A594EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E61EFB4-6AF0-45A7-90CF-D77D04A594EC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 	EndGlobalSection
