@@ -110,6 +110,14 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "89StructPt2", "04ClassesMet
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "92ExemploEnum", "04ClassesMetodos\92ExemploEnum\92ExemploEnum.csproj", "{32871F98-9D91-4AB7-994C-37763E7D3361}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "94ModificadoresDeAcesso", "04ClassesMetodos\94ModificadoresDeAcesso\94ModificadoresDeAcesso.csproj", "{D856CA85-F2A0-4DD2-858D-E04B243C3A71}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "96BlocoTryCatch", "04ClassesMetodos\96BlocoTryCatch\96BlocoTryCatch.csproj", "{4DCBA0E4-FA35-4796-AD89-047A77AF5EDD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "97TiposAnonimos", "04ClassesMetodos\97TiposAnonimos\97TiposAnonimos.csproj", "{ED33D720-7B3F-4024-B881-8812A276FA3A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "99PartialClass", "04ClassesMetodos\99PartialClass\99PartialClass.csproj", "{72CF92DE-610E-45A8-8A3C-3AE2A89A5F84}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -336,6 +344,22 @@ Global
 		{32871F98-9D91-4AB7-994C-37763E7D3361}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{32871F98-9D91-4AB7-994C-37763E7D3361}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{32871F98-9D91-4AB7-994C-37763E7D3361}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D856CA85-F2A0-4DD2-858D-E04B243C3A71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D856CA85-F2A0-4DD2-858D-E04B243C3A71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D856CA85-F2A0-4DD2-858D-E04B243C3A71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D856CA85-F2A0-4DD2-858D-E04B243C3A71}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4DCBA0E4-FA35-4796-AD89-047A77AF5EDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DCBA0E4-FA35-4796-AD89-047A77AF5EDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DCBA0E4-FA35-4796-AD89-047A77AF5EDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DCBA0E4-FA35-4796-AD89-047A77AF5EDD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED33D720-7B3F-4024-B881-8812A276FA3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED33D720-7B3F-4024-B881-8812A276FA3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED33D720-7B3F-4024-B881-8812A276FA3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED33D720-7B3F-4024-B881-8812A276FA3A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72CF92DE-610E-45A8-8A3C-3AE2A89A5F84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72CF92DE-610E-45A8-8A3C-3AE2A89A5F84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72CF92DE-610E-45A8-8A3C-3AE2A89A5F84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72CF92DE-610E-45A8-8A3C-3AE2A89A5F84}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 	EndGlobalSection
