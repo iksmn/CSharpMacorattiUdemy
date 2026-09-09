@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("107ModificadorParamsII")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d862b29b2936043bf3d483c29e94c747844bdf12")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+84376fd3947e4d08b7baa7ce1226c9f182b0b32c")]
 [assembly: System.Reflection.AssemblyProductAttribute("107ModificadorParamsII")]
 [assembly: System.Reflection.AssemblyTitleAttribute("107ModificadorParamsII")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

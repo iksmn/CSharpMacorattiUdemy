@@ -118,6 +118,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "97TiposAnonimos", "04Classe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "99PartialClass", "04ClassesMetodos\99PartialClass\99PartialClass.csproj", "{72CF92DE-610E-45A8-8A3C-3AE2A89A5F84}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "29ConversaoDeTiposI", "02Fundamentos\29ConversaoDeTiposI\29ConversaoDeTiposI.csproj", "{BF92F430-AB68-4CA9-B290-777B42B2AC14}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "30ConversaoDeTiposII", "02Fundamentos\30ConversaoDeTiposII\30ConversaoDeTiposII.csproj", "{6A4D114D-653A-4DBA-B382-528B5B481217}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -360,6 +364,14 @@ Global
 		{72CF92DE-610E-45A8-8A3C-3AE2A89A5F84}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{72CF92DE-610E-45A8-8A3C-3AE2A89A5F84}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{72CF92DE-610E-45A8-8A3C-3AE2A89A5F84}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF92F430-AB68-4CA9-B290-777B42B2AC14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF92F430-AB68-4CA9-B290-777B42B2AC14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF92F430-AB68-4CA9-B290-777B42B2AC14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF92F430-AB68-4CA9-B290-777B42B2AC14}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A4D114D-653A-4DBA-B382-528B5B481217}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A4D114D-653A-4DBA-B382-528B5B481217}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A4D114D-653A-4DBA-B382-528B5B481217}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A4D114D-653A-4DBA-B382-528B5B481217}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 	EndGlobalSection
