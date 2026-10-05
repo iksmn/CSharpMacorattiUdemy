@@ -122,6 +122,16 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "29ConversaoDeTiposI", "02Fu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "30ConversaoDeTiposII", "02Fundamentos\30ConversaoDeTiposII\30ConversaoDeTiposII.csproj", "{6A4D114D-653A-4DBA-B382-528B5B481217}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "31EntradaDeDados", "02Fundamentos\31EntradaDeDados\31EntradaDeDados.csproj", "{753CA482-E6F8-4C9A-993E-6F2DAF1615C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "32OperadoresAritmeticos", "02Fundamentos\32OperadoresAritmeticos\32OperadoresAritmeticos.csproj", "{0FBDB4DB-E846-41E9-AA8D-FB9CF37A374A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "33InferenciaDeTipos", "02Fundamentos\33InferenciaDeTipos\33InferenciaDeTipos.csproj", "{5FFD8121-7465-46DD-8001-8975A0AF32F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "34OperadoresDeAtribuicao", "02Fundamentos\34OperadoresDeAtribuicao\34OperadoresDeAtribuicao.csproj", "{40ABD640-5FA5-41A1-9A41-B275378E0A81}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "35Constantes", "02Fundamentos\35Constantes\35Constantes.csproj", "{E44DF202-6367-4366-A5B3-16872D2E5ACE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -372,6 +382,26 @@ Global
 		{6A4D114D-653A-4DBA-B382-528B5B481217}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6A4D114D-653A-4DBA-B382-528B5B481217}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6A4D114D-653A-4DBA-B382-528B5B481217}.Release|Any CPU.Build.0 = Release|Any CPU
+		{753CA482-E6F8-4C9A-993E-6F2DAF1615C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{753CA482-E6F8-4C9A-993E-6F2DAF1615C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{753CA482-E6F8-4C9A-993E-6F2DAF1615C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{753CA482-E6F8-4C9A-993E-6F2DAF1615C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0FBDB4DB-E846-41E9-AA8D-FB9CF37A374A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FBDB4DB-E846-41E9-AA8D-FB9CF37A374A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FBDB4DB-E846-41E9-AA8D-FB9CF37A374A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FBDB4DB-E846-41E9-AA8D-FB9CF37A374A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5FFD8121-7465-46DD-8001-8975A0AF32F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FFD8121-7465-46DD-8001-8975A0AF32F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FFD8121-7465-46DD-8001-8975A0AF32F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FFD8121-7465-46DD-8001-8975A0AF32F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40ABD640-5FA5-41A1-9A41-B275378E0A81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40ABD640-5FA5-41A1-9A41-B275378E0A81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40ABD640-5FA5-41A1-9A41-B275378E0A81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40ABD640-5FA5-41A1-9A41-B275378E0A81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E44DF202-6367-4366-A5B3-16872D2E5ACE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E44DF202-6367-4366-A5B3-16872D2E5ACE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E44DF202-6367-4366-A5B3-16872D2E5ACE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E44DF202-6367-4366-A5B3-16872D2E5ACE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 	EndGlobalSection
