@@ -15,3 +15,6 @@ Console.WriteLine($"A divisão dos valores {x} e {y} é {x/y}.");
 Console.WriteLine($"A exponenciação dos valores {x} e {y} é {Math.Pow(x,y)}.");
 Console.WriteLine($"O módulo dos valores {x} e {y} é {x%y}.");
                   
+                  
+                  
+                  
