@@ -5,6 +5,10 @@ string login = Console.ReadLine();
 Console.WriteLine("\nDigite a senha: ");
 int senha = Convert.ToInt16(Console.ReadLine());
 
-int senhaCorreta = 123;
+bool sucesso = (senha == 123 && (login == "admin" || login == "maria"));
 
-sucesso = senha == senhaCorreta ?  
+var resultado = sucesso == true ? "Login feito com sucesso!" : "Login inválido.";
+
+Console.WriteLine($"{resultado}");
+
+Console.ReadKey();  
